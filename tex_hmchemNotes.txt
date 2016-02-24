@@ -1,0 +1,13 @@
+Hmchem Notes
+
+\ce{SO4^2-}
+
+\ce{^{227}_{90}Th+}
+
+\ce{A\bond{-}B\bond{=}C\bond{#}D}
+
+\ce{CO2 + C -> 2CO}
+
+\ce{SO4^2- + Ba^2+ -> BaSO4 v}
+
+

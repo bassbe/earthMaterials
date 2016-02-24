@@ -1,0 +1,228 @@
+; SLIME 2015-06-01
+CL-USER> (hello-world)
+ 
+; No value
+CL-USER> 
+; No value
+CL-USER> 
+; No value
+CL-USER> (hello-world)
+; in: HELLO-WORLD
+;     (HELLO-WORLD)
+; 
+; caught STYLE-WARNING:
+;   undefined function: HELLO-WORLD
+; 
+; compilation unit finished
+;   Undefined function:
+;     HELLO-WORLD
+;   caught 1 STYLE-WARNING condition
+
+; No value
+CL-USER> (hello-world)
+; Evaluation aborted on #<UNDEFINED-FUNCTION HELLO-WORLD {1004EFE803}>.
+CL-USER> (load helloWorld.lisp)
+; compiling (DEFUN HELLO-WORLD ...)
+
+; No value
+CL-USER> (hello-world)
+Hello, World!
+NIL
+CL-USER> (list 1 2 3)
+(1 2 3)
+CL-USER> (list :a 1 :b 2 :c 3)
+(:A 1 :B 2 :C 3)
+CL-USER> 
+; No value
+CL-USER> (getf (list :a 1 :b 2 :c 3) :c)
+3
+CL-USER> (make-cd "Roses" "Kathy Mattea" 7 t)
+(:TITLE "Roses" :ARTIST "Kathy Mattea" :RATING 7 :RIPPED T)
+
+; in: DEFUN ADD-RECORD
+;     (PUSH CD *DB*)
+; --> LET* 
+; ==>
+;   (SETQ *DB* #:NEW0)
+; 
+; caught WARNING:
+;   undefined variable: *DB*
+; 
+; compilation unit finished
+;   Undefined variable:
+;     *DB*
+;   caught 1 WARNING condition
+CL-USER> (add-record (make-cd "Fly" "Dixie Chicks" 8 t))
+; Evaluation aborted on #<UNBOUND-VARIABLE *DB* {100332DEB3}>.
+; Evaluation aborted on #<UNBOUND-VARIABLE *DB* {100332DEB3}>.
+; Evaluation aborted on #<UNBOUND-VARIABLE *DB* {100332DEB3}>.
+; Evaluation aborted on #<UNBOUND-VARIABLE *DB* {100332DEB3}>.
+CL-USER> 
+CL-USER> 
+CL-USER> 
+CL-USER> (add-record (make-cd "Fly" "Dixie chicks" 8 t))
+; Evaluation aborted on #<UNBOUND-VARIABLE *DB* {10040C3C73}>.
+CL-USER> *db*
+STYLE-WARNING: redefining COMMON-LISP-USER::ADD-RECORD in DEFUN
+; Evaluation aborted on #<UNBOUND-VARIABLE *DB* {10042B9FD3}>.
+CL-USER> (add-record (make-cd "Fly" "Dixie Chicks" 8 t))
+((:TITLE "Fly" :ARTIST "Dixie Chicks" :RATING 8 :RIPPED T))
+CL-USER> (add-record (make-cd "Home" "Dixie Chicks" 9 t))
+((:TITLE "Home" :ARTIST "Dixie Chicks" :RATING 9 :RIPPED T)
+ (:TITLE "Fly" :ARTIST "Dixie Chicks" :RATING 8 :RIPPED T))
+CL-USER> clear
+; Evaluation aborted on #<UNBOUND-VARIABLE CLEAR {1004692FC3}>.
+CL-USER> *db*
+((:TITLE "Home" :ARTIST "Dixie Chicks" :RATING 9 :RIPPED T)
+ (:TITLE "Fly" :ARTIST "Dixie Chicks" :RATING 8 :RIPPED T))
+; compiling (DEFUN ADD-CDS ...)
+
+; file: /private/var/tmp/tmp.jfyW9k
+; in: DEFUN ADD-CDS
+;     (PROMPT-FOR-CD)
+; 
+; caught STYLE-WARNING:
+;   undefined function: PROMPT-FOR-CD
+; 
+; compilation unit finished
+;   Undefined function:
+;     PROMPT-FOR-CD
+;   caught 1 STYLE-WARNING condition
+
+CL-USER> (add-cds)
+; compiling (DEFUN PROMPT-FOR-CD ...)
+
+; file: /private/var/tmp/tmp.Er3hvW
+; in: DEFUN PROMPT-FOR-CD
+;     (MAKE-CD (PROMPT-READ "Title") (PROMPT-READ "Artist")
+;              (OR (PARSE-INTEGER (PROMPT-READ "Rating") :JUNK-ALLOWED T) 0))
+; 
+; caught STYLE-WARNING:
+;   The function was called with three arguments, but wants exactly four.
+; 
+; compilation unit finished
+;   caught 1 STYLE-WARNING condition
+STYLE-WARNING: redefining COMMON-LISP-USER::MAKE-CD in DEFUN
+; compiling (LIST 1 ...); Evaluation aborted on #<UNDEFINED-FUNCTION PROMPT-FOR-CD {1004FFE6B3}>.
+CL-USER> (add-cds)
+Title: Name of the Wind
+Artist: Patrick Rothfuss
+Rating: 9
+
+; compiling (DEFUN PROMPT-FOR-CD ...); Evaluation aborted on #<SB-INT:SIMPLE-PROGRAM-ERROR "invalid number of arguments: ~S" {10052AA243}>.
+CL-USER> (add-cds)
+Title: Name of the Wind
+Artist: Patrick Rothfuss
+Rating: 9
+
+Ripped [y/n] (y or n) y
+
+Another? [y/n]:  (y or n) n
+
+NIL
+CL-USER> (savedb "~/seacloud/class/arch/lispCode/dataFiles/pclMusic.txt")
+
+; in: SAVEDB "~/seacloud/class/arch/lispCode/dataFiles/pclMusic.txt"
+;     (SAVEDB "~/seacloud/class/arch/lispCode/dataFiles/pclMusic.txt")
+; 
+; caught STYLE-WARNING:
+;   undefined function: SAVEDB
+; 
+; compilation unit finished
+;   Undefined function:
+;     SAVEDB
+;   caught 1 STYLE-WARNING condition
+; compiling (DEFUN SAVE-DB ...)
+STYLE-WARNING: redefining COMMON-LISP-USER::SAVE-DB in DEFUN
+; compiling (DEFUN SAVE-DB ...); Evaluation aborted on #<UNDEFINED-FUNCTION SAVEDB {100580C5B3}>.
+CL-USER> (savedb "~/seacloud/class/arch/lispCode/dataFiles/pclMusic.txt")
+; Evaluation aborted on #<UNDEFINED-FUNCTION SAVEDB {1005AD8A33}>.
+CL-USER> (save-db "~/seacloud/class/arch/lispCode/dataFiles/pclMusic.txt")
+
+((:TITLE "Name of the Wind" :ARTIST "Patrick Rothfuss" :RATING 9 :RIPPED T)
+ (:TITLE "Home" :ARTIST "Dixie Chicks" :RATING 9 :RIPPED T)
+ (:TITLE "Fly" :ARTIST "Dixie Chicks" :RATING 8 :RIPPED T))
+; compiling (DEFUN MAKE-BIT-STRING ...)
+; compiling (DEFUN PROMPT-READ ...)
+
+; file: /private/var/tmp/tmp.ArZAA0
+; in: DEFUN PROMPT-READ
+;     (FORMAT *QUERY-IO "~a: " PROMPT)
+; 
+; caught WARNING:
+;   undefined variable: *QUERY-IO
+; 
+; compilation unit finished
+;   Undefined variable:
+;     *QUERY-IO
+;   caught 1 WARNING condition
+STYLE-WARNING: redefining COMMON-LISP-USER::PROMPT-READ in DEFUN
+; compiling (DEFUN PROMPT-FOR-BITS ...)
+
+; file: /private/var/tmp/tmp.htLdA9
+; in: DEFUN PROMPT-FOR-BITS
+;     (FORMAT *QUERY-IO "~a: " PROMPT)
+; 
+; caught WARNING:
+;   undefined variable: *QUERY-IO
+; 
+; compilation unit finished
+;   Undefined variable:
+;     *QUERY-IO
+;   caught 1 WARNING condition
+
+CL-USER> (make-bit-string)
+; compiling (DEFUN PROMPT-FOR-BITS ...)
+
+; file: /private/var/tmp/tmp.AjwDkE
+; in: DEFUN PROMPT-FOR-BITS
+;     (PROMPT-EVAL "String of Bits")
+; 
+; caught STYLE-WARNING:
+;   undefined function: PROMPT-EVAL
+; 
+; compilation unit finished
+;   Undefined function:
+;     PROMPT-EVAL
+;   caught 1 STYLE-WARNING condition
+; compiling (DEFUN PROMPT-FOR-BITS ...)
+
+; file: /private/var/tmp/tmp.uvEnfI
+; in: DEFUN PROMPT-FOR-BITS
+;     (PROMPT-EVAL "String of Bits")
+; 
+; caught STYLE-WARNING:
+;   undefined function: PROMPT-EVAL
+; 
+; compilation unit finished
+;   Undefined function:
+;     PROMPT-EVAL
+;   caught 1 STYLE-WARNING condition
+
+; in: DEFUN PROMPT-EVAL
+;     (FORMAT *QUERY-IO "~a: " PROMPT)
+; 
+; caught WARNING:
+;   undefined variable: *QUERY-IO
+; 
+; compilation unit finished
+;   Undefined variable:
+;     *QUERY-IO
+;   caught 1 WARNING condition
+; compiling (DEFUN PROMPT-FOR-BITS ...); Evaluation aborted on #<SB-INT:SIMPLE-PROGRAM-ERROR "invalid number of arguments: ~S" {1006232D83}>.
+CL-USER> (prompt-for-bits)
+
+; compiling (DEFUN PROMPT-EVAL ...)
+STYLE-WARNING: redefining COMMON-LISP-USER::PROMPT-EVAL in DEFUN
+; Evaluation aborted on #<UNBOUND-VARIABLE *QUERY-IO {1006B43013}>.
+CL-USER> (prompt-for-bits)
+String of Bits: 0010010101
+
+("0010010101")
+CL-USER> *bit-string*
+; Evaluation aborted on #<UNBOUND-VARIABLE *BIT-STRING* {1006D90F83}>.
+CL-USER> bit-string
+; Evaluation aborted on #<UNBOUND-VARIABLE BIT-STRING {1006F54D13}>.
+CL-USER> bitstring
+; Evaluation aborted on #<UNBOUND-VARIABLE BITSTRING {1002E84A83}>.
+CL-USER> 

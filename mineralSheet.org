@@ -1,0 +1,242 @@
+#+TITLE: Mineral Sheets
+
+
+# 1) Photos of best mineral ever.
+# 2) Mineral in a rock.
+
+
+# Highlight the important features
+# of each rock. Between 1 and four
+# things that are characteristic
+# and helpful of things that are
+# used to idenfity the mineral.
+
+
+_Highlight_
++ Quartz
++ Albite Anorthite
++ Michrocline
++ Orthoclase
++ Sonidine
++ Zeolites
+  - environment of formation.
++ Sodolite
+  - environment of formation
+  - color
++ Nepheline
+  - Luster
+  - Environment of Formation
++ Levcite
+  - shape
+  - environment of formation
++ Scapolite
+  - external shape
+
+* Mineral Name
+|------------------------------+---|
+| Generic Mineral Formula      |   |
+|------------------------------+---|
+| Mineral Chemical Class       |   |
+|------------------------------+---|
+| Specific Gravity             |   |
+|------------------------------+---|
+| Crystal System               |   |
+|------------------------------+---|
+| Hardness                     |   |
+|------------------------------+---|
+| Crystal Class                |   |
+|------------------------------+---|
+| Clevage                      |   |
+|------------------------------+---|
+| Crystal Description          |   |
+| (common forms, habit, etc.)  |   |
+|------------------------------+---|
+| Luster                       |   |
+|------------------------------+---|
+| Streak                       |   |
+|------------------------------+---|
+| Characteristic Color(s)      |   |
+|------------------------------+---|
+| Environment                  |   |
+| (where you find the mineral) |   |
+|------------------------------+---|
+| Common Mineral Associations  |   |
+| (in samples; also consult    |   |
+| text, notes)                 |   |
+|------------------------------+---|
+| Scientific use/significance  |   |
+|------------------------------+---|
+| Industrial or societal use/  |   |
+| significance                 |   |
+|------------------------------+---|
+| Environmental Significance   |   |
+|------------------------------+---|
+* Sodialite
+ p. 258
+|------------------------------+-----------------------------------------|
+| Generic Mineral Formula      | Na_{8}(Al_{6}Si_{6}O_{24})Cl_{2}        |
+|------------------------------+-----------------------------------------|
+| Mineral Chemical Class       | Techtosilicates                         |
+|------------------------------+-----------------------------------------|
+| Specific Gravity             | 2.27-2.33                               |
+|------------------------------+-----------------------------------------|
+| Crystal System               | Isometric                               |
+|------------------------------+-----------------------------------------|
+| Hardness                     | 5.5-6.0                                 |
+|------------------------------+-----------------------------------------|
+| Crystal Class                | 4^{bar}3m                               |
+|------------------------------+-----------------------------------------|
+| Clevage                      | {110} Poor. Uneven, Conchoidal Fracture |
+|                              | Brittle.                                |
+|------------------------------+-----------------------------------------|
+| Crystal Description          | <how you're gonna see it>               |
+| (common forms, habit, etc.)  | Massive, anhedral.                      |
+|------------------------------+-----------------------------------------|
+| Luster Streak                | Vitreous                                |
+|------------------------------+-----------------------------------------|
+| Streak                       | White. The streak of lazurite may       |
+|                              | be blue.                                |
+|------------------------------+-----------------------------------------|
+| Characteristic Color(s)      | Commonly light to dark blue; also       |
+|                              | grey, colorless, white, yellow,         |
+|                              | or green; may flouresce.                |
+|------------------------------+-----------------------------------------|
+| Environment                  | <occurance paragraph>                   |
+| (where you find the mineral) |                                         |
+|------------------------------+-----------------------------------------|
+| Common Mineral Associations  |                                         |
+| (in samples; also consult    |                                         |
+| text, notes)                 |                                         |
+|------------------------------+-----------------------------------------|
+| Scientific use/significance  |                                         |
+|------------------------------+-----------------------------------------|
+| Industrial or societal use/  | Dimension Stone. Used to face buildings |
+| significance                 | and other decorative purposes. Folk     |
+|                              | medicine for diabetes.                  |
+|------------------------------+-----------------------------------------|
+| Environmental Significance   |                                         |
+|------------------------------+-----------------------------------------|
+* Luecite
+ p.257
+|------------------------------+-----------------------------------------|
+| Generic Mineral Formula      | KAISi_{2}O_{6}                          |
+|------------------------------+-----------------------------------------|
+| Mineral Chemical Class       | Techtosilicates                         |
+|------------------------------+-----------------------------------------|
+| Specific Gravity             | 2.45-2.50                               |
+|------------------------------+-----------------------------------------|
+| Crystal System               | Tetragonal (pseudoisometric)            |
+|------------------------------+-----------------------------------------|
+| Hardness                     | 5.5-6.0                                 |
+|------------------------------+-----------------------------------------|
+| Crystal Class                | 4/m                                     |
+|------------------------------+-----------------------------------------|
+| Clevage                      | Poor. Conchoidal Fracture.              |
+|------------------------------+-----------------------------------------|
+| Crystal Description          | Little soccer balls.                    |
+| (common forms, habit, etc.)  |                                         |
+|------------------------------+-----------------------------------------|
+| Luster Streak                | Vitreus                                 |
+|------------------------------+-----------------------------------------|
+| Streak                       | White                                   |
+|------------------------------+-----------------------------------------|
+| Characteristic Color(s)      | White or Gray                           |
+|------------------------------+-----------------------------------------|
+| Environment                  | Potassium-rich maphic                   |
+| (where you find the mineral) | magma's. Shallow, intrusive rock bodies |
+|                              | associated with plagioclase, nepheline  |
+|------------------------------+-----------------------------------------|
+| Common Mineral Associations  |                                         |
+| (in samples; also consult    |                                         |
+| text, notes)                 |                                         |
+|------------------------------+-----------------------------------------|
+| Scientific use/significance  |                                         |
+|------------------------------+-----------------------------------------|
+| Industrial or societal use/  | Dental.                                 |
+| significance                 |                                         |
+|------------------------------+-----------------------------------------|
+| Environmental Significance   |                                         |
+|------------------------------+-----------------------------------------|
+* Stillbite/Zeolite
+|------------------------------+---|
+| Generic Mineral Formula      |   |
+|------------------------------+---|
+| Mineral Chemical Class       |   |
+|------------------------------+---|
+| Specific Gravity             |   |
+|------------------------------+---|
+| Crystal Syste m              |   |
+|------------------------------+---|
+| Hardness                     |   |
+|------------------------------+---|
+| Crystal Class                |   |
+|------------------------------+---|
+| Clevage                      |   |
+|------------------------------+---|
+| Crystal Description          |   |
+| (common forms, habit, etc.)  |   |
+|------------------------------+---|
+| Luster Streak                |   |
+|------------------------------+---|
+| Streak                       |   |
+|------------------------------+---|
+| Characteristic Color(s)      |   |
+|------------------------------+---|
+| Environment                  |   |
+| (where you find the mineral) |   |
+|------------------------------+---|
+| Common Mineral Associations  |   |
+| (in samples; also consult    |   |
+| text, notes)                 |   |
+|------------------------------+---|
+| Scientific use/significance  |   |
+|------------------------------+---|
+| Industrial or societal use/  |   |
+| significance                 |   |
+|------------------------------+---|
+| Environmental Significance   |   |
+|------------------------------+---|
+
+* Scapolite
+|------------------------------+-----------------------------------|
+| Generic Mineral Formula      | Na_{4}Al_{3}Si_{9}O_{24}Cl        |
+|------------------------------+-----------------------------------|
+| Mineral Chemical Class       | Techtosilicates                   |
+|------------------------------+-----------------------------------|
+| Specific Gravity             | 2.50-2.78                         |
+|------------------------------+-----------------------------------|
+| Crystal System               | Tetragonal                        |
+|------------------------------+-----------------------------------|
+| Hardness                     | 5-6                               |
+|------------------------------+-----------------------------------|
+| Crystal Class                | 4/m                               |
+|------------------------------+-----------------------------------|
+| Clevage                      | Good. Parallel to faces {110}     |
+|                              | intersect @ 90 degrees            |
+|------------------------------+-----------------------------------|
+| Crystal Description          |       vd                          |
+| (common forms, habit, etc.)  |                                   |
+|------------------------------+-----------------------------------|
+| Luster                       | Vitreus                           |
+|------------------------------+-----------------------------------|
+| Streak                       | White                             |
+|------------------------------+-----------------------------------|
+| Characteristic Color(s)      | White, Grey, or Green. Flouresces |
+|                              | to orange/bright yellow           |
+|------------------------------+-----------------------------------|
+| Environment                  |                                   |
+| (where you find the mineral) |                                   |
+|------------------------------+-----------------------------------|
+| Common Mineral Associations  |                                   |
+| (in samples; also consult    |                                   |
+| text, notes)                 |                                   |
+|------------------------------+-----------------------------------|
+| Scientific use/significance  |                                   |
+|------------------------------+-----------------------------------|
+| Industrial or societal use/  |                                   |
+| significance                 |                                   |
+|------------------------------+-----------------------------------|
+| Environmental Significance   |                                   |
+|------------------------------+-----------------------------------|
+
+

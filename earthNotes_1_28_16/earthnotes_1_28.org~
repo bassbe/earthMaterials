@@ -1,0 +1,156 @@
+Earth Notes: 1_28
+
+
+* <2016-01-28 Thu>
+
+** Shapes
+
+
+Triclinic a!=b!=c
+|Monoclinic a!=b!=c
+|Orthorhombic a!=b!=c
+Hexagonal a1=a2=a3!=c
+Tetragonal a1=a1!=c
+Isometric a1=a2=a3
+
+1.
+
+2.
+
+3. The sharing of edges or sides of coordination polyhedra generally
+de-stabilizes a structure.
+  -> large charged cations repel
+
+*graph of number 3.* know your coordination polyhedra.
+
+4. In structures with didfferently charged cations, hgih charged cations
+usually do not share the same anion.^^xb
+
+	-> anisocesmic - anisodesmic
+
+5. Principle of Parsimony: Total number of different kinds of coustituent
+sites in a mineral tends to be small.
+
+ex: Biotite
+12fold(K,Na)
+6fold(Mg, Fe2, Fe3, Mn3, Al3+)3
+4fold(Al3+, Si4+)O10 (OH)2
+
+_Know Everything about the 8 most common cadioins._
+
+Moving Towawrds Minteral Composition.
+
+First: Isostructural Mierals
+ 	-> Same structure, different chemicals
+ex: NaCl         PbS
+    halite       galena
+	-> Often, we name a mineral structure after a mineral that has that structure.
+ex: NaCl structure
+    CaF_2
+    Poovskite
+
+
+Second: Polymorph
+	-> different structures, same chemistry
+ex: Al_2 SiO_5
+		-> aluminosilicate
+			-> Kyanite
+			-> andalusite
+			->sillimanite
+	-> Which polymorph develops depends on the pressure and temp of growth.
+
+
+
+Mineral Composition:
+We _Classify_ Minerals chemically on a basis of chemical anion or anion group
+ex: silicate -> SiO_4 ^4-
+    carbonate -> CO_3 ^2-
+    phosphate -> PO_4 ^3-
+    Sulfates  ->  SO_4 ^2-
+    Sulfides  -> S^-2
+
+beyone anion class, the rest of the chemistry is all about the cations.
+
+
+
+How do we write the formula for a mineral?
+
+Pure Substances
+	-> Truly fixed chemical composition
+ex:quartz -> SiO_2
+   kaolinite -> -> Al_2Si_2O_5 (OH)_4
+
+More often....
+
+Solid Solution:
+	-> Soution of defined chemical "end members" to form a homogenous mineral.
+
+end member is a consitutant part. The red or the blue potion.
+
+examples:
+Olivine
+	-> Silicate
+	-> Structure ^VIM_2 ^IVSiO_4
+
+end member
+Fe_2SiO_4
+fayallite
+---->
+other end member
+Mg_2SiO_4
+forsterite
+=
+Complete solid solution possible.
+
+
+a "real" olivine in nature (Fe_(1,5)Mg_(0,5))SiO_4
+				-> Fo25 (means 25% foresterite)
+
+
+Waht controls the exact composition of the mineral?
+	- composition of system (sometimes called X)
+	- pressure and temperature (P and T)
+
+Ex: Plagioclase feldspar
+most abundant type of felspar
+2 chemical end members
+
+i        IV                          IV
+Na^(+1)(AlSi_3)O_8 <--->  Ca^(+2)(Fl_2Si_2)O_8
+Albite               Amorthite
+
+This is a coupled subsititution
+
+^IXNa^(+1) + ^IVSi^(+4) /---\ ^IXCa^(+2) + ^IVAl^(3+)
+always account for site + charge
+
+ex:
+
+Biotite:
+
+XII   VI         IV
+K (Mg_1Fe)_3 (ALSi_3)O_10 (OH)_2
+
+Mg is pilogopite, Fe is annite
+
+how could we put Ba^(2+)
+cooordinate site for cadions
+
+take out
+^XIIK^(1+) + ^IVSi^(4+)  = ^XIIBa^(2+) + ^(IV)Al^(3+)
+or
+
+^XIIK +  ^VIFe^(3+) = ^XIIBa^(2+) + ^VIMg^(2+)
+
+or
+
+2^XIIK^(1+)         = ^XIIBa^(2+) ^XII V (stands for Vacancy)
+
+
+| Triclinic    | a!=b!=c | All angles not 90         |
+| Monoclinic   | a!=b!=c | Beta !=90, Alpha Gamma=90 |
+| Orthorhombic | a!=b!=c |                           |
+| Tetragonal   |         |                           |
+| Hexagonal    |         |                           |
+| Isometric    |         |                           |
+

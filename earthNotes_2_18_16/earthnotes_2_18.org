@@ -1,0 +1,136 @@
+Earth Notes 2 18
+
+* Review Missed from Tests
+
+Personalized question for next exam: think about the question for next exam.
+What 2 minerals could I interrorgate for the next exam?
+
+On the final exam, you have
+
+* The Middle Third of the Class:
+
+_Marching Throught the Silicates_
+
+Most Polymerized -> Least Polymerized.
+
+** Most Polymerized: Tectosilicates 
+
+2/3 of Crust
+
+Simplets = _SiO_{2} Group_ (silica group)
+
+Polymorphs (same chemical form, different groups)
+
+there are many silica polymorphs
+
+Alpha Quartz
+coesite
+
+really important environment of growth: quartz
+
+Environment:
++ 2nd most abundant
++ can grow or be found:
+  - igneaus
+  - Metamorphic
+  - sedimentary
+  - hydrothermal
+  - These need silica saturated chemistry
+  - they're Felsic (high in silica)
+
++ Felsic
++ Igneaus rocks
+  - granite -> pegmatite (beautiful y economic) (ultra-felsic igneous rock)
+  - rhyolite
+  - 
++ Metamorphic
+  - almost any schist, queiss
+  - Sedimentary
+    * as common and detrital grains
+    * as a chemical cement
+
+_Natural Fluids_
+- quartz precipitate 
+- can be very fine grained
+  * "cryptocrystalline"
+    - agate
+    - chalcedony
+    - chert or flint
+
+Fulgarite: if lightening hits silica-rich soil.
+
+Opal: 
+- Not quite a mineral because its Amorphous
+- SiO_{2} + H_{2}O
+- low T fluids
+- also biomineral
+- ex: plant phytoliths
+
+*Whats the most abundant mineral in the crust: Feldspar*
+*Quartz is in second place*
+
+Quartz: Crystal Shape, hexagonal prysm with degraded symmetry. Glassy luster.
+Color is no good. 
+What causes color in Quartz: 
+- clear
+- smokey (bc aluminum. if quartz in invironment
+
+_Feldspars_
+most abundant in the crust
+(Si + Al)
+----------
+O                = 1/2
+
+
+Structure
+<classPic>
+
+hole = 9-fold distorted site: K, Na, Ca
+
+T_{1}, T_{2} = Si or Al
+
+
+
+
+
+Specific Felspar Minerals are distinguished by the 9-fold site Cation
+and _Al_{1}, Si content ordering_
+
+_Feldspars_
+
+Feldspar composition
+
+(K,Na)_{1-x} Ca_{x} Al_{1+x} Si_{3-x} O_{8}
+where x = 0 to 1
+
+*Ternary Diagram*
+
+
+3 Polymorphs @ Kspar
+differ only in their ordering of Al, Si
+
+Sanidine: Complete Disorder -> monoclinic > 900celcius
+Orthoclase: somewhere in the middle    -> monoclinic
+Microcline: completely ordered -> triclinic (low symmetry) < 500celcius
+
+Plag:
+1. albite
+2. oligoclase
+3. andesine
+4. labradorite
+5. bytonite
+6. anorthite
+
+recall _exolution_
+- refers to chemical unmixing upon cooling below the _soldus_.
+
+perthitic texture in K-spar
+
+
+_Twinning_
+3 types of twins
+1. Contact Twins: shares a plane
+2. Interpenetration twin: grown together= might share rotational axis
+3. Polysynthetic Twins: many repeated crystals
+
+Twins get pink highlighter.

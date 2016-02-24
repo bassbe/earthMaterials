@@ -1,0 +1,152 @@
+Earth Notes 2-02
+
+* <2016-02-02 Tue>
+** Review
+Know for the Test
+Most Abundent Elements in the Crust:
+
+#+attr_latex: :align |c|c|c|
+|-----------+----------+-----------------------|
+| _element_ | _charge_ | _Coordination Number_ |
+|           |          |   (fold coordination) |
+|-----------+----------+-----------------------|
+| Si        |        4 |                     4 |
+| O         |       -2 |                     X |
+| Na        |        1 |                     8 |
+| Ca        |        2 |              6 (or 8) |
+| K         |        1 |                    12 |
+| Al        |        3 |                   6/4 |
+| Mg        |        2 |                     6 |
+| Fe        |      2/3 |                     6 |
+|-----------+----------+-----------------------|
+
+\pagebreak
+
+** Mineral Composition
+
+_Mineral Chemical Site Assignment (more examples in p. 198-200)_
+
+ex: Sphalerite (ZnS)
+
+Actual analysis sample that we collected:
+
+#+attr_latex: :align |c|c|c|
+|---------+----------------+------------------+-------+------------|
+| Element | Weight Percent | (Grams per Mole) |       | Normalized |
+|---------+----------------+------------------+-------+------------|
+| Fe      |         18.25% | / 55.85          | 0.327 |       .312 |
+| Mn      |          2.66% | / 54.94          | 0.048 |       .046 |
+| Cd      |            .28 | / 112.41         |  .002 |       .002 |
+| Zn      |          44.67 | / 65.58          | 0.683 |       .651 |
+| S       |          33.57 | / 32.07          | 1.047 |        1.0 |
+|---------+----------------+------------------+-------+------------|
+| Total   |         99.43% |                  |       |      1.011 |
+|---------+----------------+------------------+-------+------------|
+
+Final Formula: (Zn_{.651} Fe_{.312} Mn_{.046} Cd_{.002})S
+That is an easy one. Most of the time, when we're dealing with something like Silicates, we have a situation like this:
+
+Silicate Analysis: Olivine  ^{VI}(MgFe)_{2} ^{IV}SiO_{4}
+
+SiO_{2} 40.99
+
+
+Trying out MhChem
+
+\ce{SO4^2-}
+
+\ce{^{227}_{90}Th+}
+
+\ce{A\bond{-}B\bond{=}C\bond{#}D}
+
+\ce{CO2 + C -> 2CO}
+
+\ce{SO4^2- + Ba^2+ -> BaSO4 v}
+
+#+attr_latex: :align |c|c|c|
+|-------------+----------------+---------------+-----------------------------+----------+-------------+----------------------------+------------------|
+| Element     | Weight Percent | Atomic Weight | Molecular Atomic Proportion | xOxygens | Atomic Opop | NormalizeFactor: 4.0/2.732 | Cadion Formula % |
+|-------------+----------------+---------------+-----------------------------+----------+-------------+----------------------------+------------------|
+| SiO_{2}     |          40.99 |       / 60.08 |                       .6822 | x2       |      1.3642 |                            |             .999 |
+| FeO         |           8.58 |         71.85 |                       .1194 | x1       |       .1194 |                            |             .115 |
+| Fe_{2}O_{3} |            .50 |        159.69 |                       .0031 | x3       |       .0093 |                            |             .009 |
+| MgO         |          50.00 |         90.31 |                      1.2403 | x1       |      1.2401 |                            |            1.816 |
+| MnO         |            .20 |         70.94 |                       .0028 | x1       |       .0028 |                            |             .004 |
+|-------------+----------------+---------------+-----------------------------+----------+-------------+----------------------------+------------------|
+| Total       |         100.27 |               |                             |          |       2.732 |                            |                  |
+|-------------+----------------+---------------+-----------------------------+----------+-------------+----------------------------+------------------|
+
+2.732 -> .999
+
+Normalize everything to 4 Oxygens.
+
+Normalize to 4 oxygens. Normalizing factor is 2.732.
+
+#+TBLFM: $4=.048
+normalize to exactly 1.0 S.
+
+If done right, all the cadions should add up to 1.
+
+1.0
+-----
+1.047
+
+Between 99% and 100% is a good analysis.
+
+
+_Final Formula_
+(Mg_{1.816} Fe^{+2}_{.175} Fe^{+3}_{.009} Mn_{.04}) Si_{.999} O_{4}
+
+** Why Minerals Grow
+--> Depends on P,T,X conditions
+*** Thermodynamics
+Used to describe and predict the equillibrium state of a system.
+
+ex: Si Al Ca O
+
+CaO
+Si_{2}
+Al_{2}O_{3}
+Al_{2}SiO_{5}
+CaSiO_{3}
+etc...
+
+_Gibbs Free Energy_
+One of the ways we can quantify free energy using thermodynamics.
+
+G = f(P, T, X) (x means composition)
+
+Every substance, including minerals, has some \delta G_{i} = f(P,T,X)
+
+Stable Equillibrium of a system is the one with the loweset \Sum \delta G
+<Insert Picture of Stability graph>
+
+Diamond wants to break down to graphite. 
+
+All this allows us to write REACTIONS
+
+ex: C_{Diamond} = C_{Granite}
+
+at surface P,T: \delta G_{graphite} < \delta G_{Diamond}
+
+ex: CaAl_{2}Si_{2}O_{8} = CaAl_{2}Si_{2}O_{8}
+      anarthite                melt
+
+at surface P,T            \delta G__{amorthite} < \delta G_{anothite}
+                                              <----------------------
+                                                   reaction proceeds
+
+ex: KAl_{2}(AlSi_{3})O_{10}(OH)_{2} + SiO_{2} =   KAlSi_{3}O_{8}  + Al_{2}SiO_{5} +  H_{2}O
+                muscovite              quartz        feldspar         sillimanite
+
+
+at very high Temp > 700 degrees Celsius     \Sum \deltaG_{ksparSilliminH20} < \Sum \deltaG_{muscovitequartz}
+
+so Kspasr is stable or reaction -------------------->
+                                  reaction proceeds
+
+
+ex:
+     2 KAlSi_{3}O_{8} + H_{2}O + 2H^{+} = Al_{2}Si_{2}O_{5}(OH)_{4} + 2K^{+} +         4SiO_{2}
+        Feldspar         watah   acid        kalimite clay            classified k+    Dissolved Silicon
+

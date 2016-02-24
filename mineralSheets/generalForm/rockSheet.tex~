@@ -1,0 +1,38 @@
+\documentclass[12pt]{article}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{frame,color}
+\usepackage{framed}
+
+
+\author{Author}
+\date{Date}
+\title{Title}
+
+\begin{document}
+
+\maketitle
+
+
+
+%\framebox{Use frameboxes until figure out alignment
+
+\framebox{This is a framebox}\\
+
+
+
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

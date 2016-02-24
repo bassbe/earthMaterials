@@ -1,0 +1,202 @@
+% Created 2016-02-08 Mon 11:52
+\documentclass[11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fixltx2e}
+\usepackage{graphicx}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\tolerance=1000
+\usepackage[version=3]{mhchem}
+\author{Benjamin Bass}
+\date{02 February 2016}
+\title{Earth Notes}
+\pagestyle{fancy}
+\hypersetup{
+  pdfkeywords={},
+  pdfsubject={},
+  pdfcreator={Emacs 24.4.1 (Org mode 8.2.10)}}
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+
+\section{Review}
+\label{sec-1}
+Know for the Test
+Most Abundent Elements in the Crust:
+
+\begin{center}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Element} & \textbf{Charge} & \textbf{Coordination Number}\\
+ &  & (fold coordination)\\
+\hline
+Si & 4 & 4\\
+O & -2 & X\\
+Na & 1 & 8\\
+Ca & 2 & 6 (or 8)\\
+K & 1 & 12\\
+Al & 3 & 6/4\\
+Mg & 2 & 6\\
+Fe & 2/3 & 6\\
+\hline
+\end{tabular}
+\end{center}
+
+\pagebreak
+
+\section{Mineral Composition}
+\label{sec-2}
+
+\uline{Mineral Chemical Site Assignment (more examples in p. 198-200)}
+
+ex: Sphalerite (ZnS)
+
+Actual analysis sample that we collected:
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|}
+\hline
+Element & Weight Percent & (Grams per Mole) &  & Normalized\\
+\hline
+Fe & 18.25\% & 55.85 & 0.327 & .312\\
+Mn & 2.66\% & 54.94 & 0.048 & .046\\
+Cd & .28 & 112.41 & .002 & .002\\
+Zn & 44.67 & 65.58 & 0.683 & .651\\
+S & 33.57 & 32.07 & 1.047 & 1.0\\
+\hline
+Total & 99.43\% &  &  & 1.011\\
+\hline
+\end{tabular}
+\end{center}
+
+
+Final Formula: (Zn$_{\text{.651}}$ Fe$_{\text{.312}}$ Mn$_{\text{.046}}$ Cd$_{\text{.002}}$)S
+
+That is an easy one. Most of the time, when we're dealing with something like Silicates, we have a situation like this:
+
+Silicate Analysis: Olivine \$ \ce\{$^{\text{VI}}$(MgFe)2\} \ce\{ \^{}\{IV\}SiO4\}\$
+
+\ce{SiO2} 40.99
+
+\begin{center}
+\begin{tabular}{|c|c|c|c|c|c|c|}
+\hline
+Elem. & WP & AW & MAP & xOxy & AO & CFP\\
+\hline
+SiO$_{\text{2}}$ & 40.99 & / 60.08 & .6822 & x2 & 1.3642 & .999\\
+FeO & 8.58 & 71.85 & .1194 & x1 & .1194 & .115\\
+Fe$_{\text{2}}$O$_{\text{3}}$ & .50 & 159.69 & .0031 & x3 & .0093 & .009\\
+MgO & 50.00 & 90.31 & 1.2403 & x1 & 1.2401 & 1.816\\
+MnO & .20 & 70.94 & .0028 & x1 & .0028 & .004\\
+\hline
+Total & 100.27 &  &  &  & 2.732 & \\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+\begin{tabular}{ll}
+\hline
+Key & Value\\
+\hline
+Elem. & Element Normalization FActor\\
+WP & Weight Percent\\
+AW & Atomic Weight Cadion Formula \%\\
+MAP & Molecular Atomic Proportion\\
+xOxy & xOxygens\\
+AO & Atomic Opop(?)\\
+NF & Normalization Factor (4.0/2.732)\\
+CFP & Cadion Formula Percentage\\
+\hline
+\end{tabular}
+\end{center}
+
+2.732 $\rightarrow$ .999
+
+Normalize everything to 4 Oxygens.
+
+Normalize to 4 oxygens. Normalizing factor is 2.732.
+
+Normalize to exactly 1.0 S.
+
+If done right, all the cadions should add up to 1.
+
+
+\dfrac{1}{1.047}
+
+
+Between 99\% and 100\% is a good analysis.
+
+\uline{Final Formula}
+ \ce\{(mg1.816Fe.175$^{\text{2+}}$Fe.009$^{\text{3+}}$Mn.04)Si.999O4\}
+
+\subsection{Why Minerals Grow}
+\label{sec-2-1}
+$\rightarrow$ Depends on P,T,X conditions
+\subsubsection{Thermodynamics}
+\label{sec-2-1-1}
+Used to describe and predict the equillibrium state of a system.
+
+ex: Si, Al, Ca, O
+
+\ce{CaO}\\
+\ce{Si2}\\
+\ce{Al2O3}\\
+\ce{Al2SiO5}\\
+\ce{CaSiO3}\\
+etc\ldots{}
+
+\uline{Gibbs Free Energy}
+One of the ways we can quantify free energy using thermodynamics.
+
+G = f(P, T, X) (x means composition)
+
+Every substance, including minerals, has some $\Delta$ G$_{\text{i}}$ = f(P,T,X)
+
+Stable Equillibrium of a system is the one with the lowest 
+<should be sum of some sort sumdeltaG>
+\Sum $\Delta$ G
+<Insert Picture of Stability graph>
+
+Diamond wants to break down to graphite. 
+
+All this allows us to write REACTIONS
+
+ex: C$_{\text{Diamond}}$ = C$_{\text{Granite}}$
+
+at the surface P,T: $\Delta$ G$_{\text{graphite}}$ \textless{} $\Delta$ G$_{\text{Diamond}}$
+
+ex: CaAl$_{\text{2}}$Si$_{\text{2}}$O$_{\text{8}}$ = CaAl$_{\text{2}}$Si$_{\text{2}}$O$_{\text{8}}$
+      anarthite                melt
+
+at surface P,T            $\Delta$ G\_$_{\text{amorthite}}$ < $\Delta$ G$_{\text{anothite}}$
+                                              <----------------------
+                                                   reaction proceeds
+
+ex: KAl$_{\text{2}}$(AlSi$_{\text{3}}$)O$_{\text{10}}$(OH)$_{\text{2}}$ + SiO$_{\text{2}}$ =   KAlSi$_{\text{3}}$O$_{\text{8}}$  + Al$_{\text{2}}$SiO$_{\text{5}}$ +  H$_{\text{2}}$O
+                muscovite              quartz        feldspar         sillimanite
+
+
+at very high Temp > 700 degrees Celsius     \Sum $\Delta$ G$_{\text{ksparSilliminH20}}$ < \Sum $\Delta$ G$_{\text{muscovitequartz}}$
+
+so Kspasr is stable or reaction -------------------->
+                                  reaction proceeds
+
+
+ex:
+     2 KAlSi$_{\text{3}}$O$_{\text{8}}$ + H$_{\text{2}}$O + 2H$^{\text{+}}$ = Al$_{\text{2}}$Si$_{\text{2}}$O$_{\text{5}}$(OH)$_{\text{4}}$ + 2K$^{\text{+}}$ +         4SiO$_{\text{2}}$
+        Feldspar         watah   acid        kalimite clay            classified k+    Dissolved Silicon
+% Emacs 24.4.1 (Org mode 8.2.10)
+\end{document}

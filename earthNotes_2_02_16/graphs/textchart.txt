@@ -1,0 +1,22 @@
+Text Chart for 2_02
+
+
+			  |				     ||
+			  |--				     ||
+			  |  \--|	    Unstable	     ||	   Stable: liquid H_{2}O at room P,T
+			  |	\	   -O		   --+
+			  |	 \	   | \--\	|--| |	    Unstable = ice at room P,T
+			  |	  \	  /	 --    -|    |
+		G	  |	   \	  |	   |  /||    |	  Metastable =
+			  |	    --	 /|	   |  	\    |
+			  |	      O-/	   \   /     |
+			  |	   Metastable	    \  |     |
+			  |			     \ |     |
+			  |			      O	     |
+			  |			    Stable   |
+			  |				     |
+			  |				     |
+			  |				     |
+			  |----------------------------------|
+			     Every Possible State
+
