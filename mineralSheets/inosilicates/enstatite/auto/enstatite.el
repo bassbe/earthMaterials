@@ -1,5 +1,5 @@
 (TeX-add-style-hook
- "leucite"
+ "enstatite"
  (lambda ()
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "10pt")))
@@ -24,8 +24,6 @@
     "frame"
     "color"
     "framed"
-    "minibox")
-   (LaTeX-add-environments
-    '("homeworkProblem" LaTeX-env-args ["argument"] 0)))
+    "minibox"))
  :latex)
 

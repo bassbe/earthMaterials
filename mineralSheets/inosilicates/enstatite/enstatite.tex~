@@ -1,0 +1,81 @@
+\documentclass[10pt]{article}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\graphicspath{{/Users/benjaminbass/Desktop/}}
+
+\usepackage{frame,color}
+\usepackage{framed}
+\usepackage{minibox}
+
+% \usepackage[T1]{fontenc}
+% \usepackage{tilting} %bring title up
+% \setlength{\droptitle}{-10cm} 
+
+
+\author{Benjamin Bass}
+\date{2 March 2016}
+\title{\vspace{-2.0cm}Ensatite} %bring title up temporary Fix
+
+\begin{document}
+
+\maketitle
+
+% \framebox{Use frameboxes until figure out alignmen}
+
+
+
+\framebox[15cm][l]{\textbf{General Mineral Formula}: $(Mg,Fe)_{2}Si_{2}O_{6}$ }\
+\framebox[15cm][l]{\textbf{Mineral Chemical Class}:   }\
+\framebox[15cm][l]{\textbf{Specific Gravity}:  Spec. Gravity }\
+\framebox[15cm][l]{\textbf{Hardness}:  Hardness }\
+\framebox[15cm][l]{\textbf{Cleavage}:  Cleavage }\
+\framebox[15cm][l]{\textbf{Luster}:  Luster }\
+\framebox[15cm][l]{\textbf{Streak}:  Streak}\
+\framebox[15cm][l]{\textbf{Characteristic Color(s)}:  Color }\
+\framebox[15cm][l]{\textbf{Crystal System}:  Crystal System }\
+\framebox[15cm][l]{\textbf{Crystal Class}:  Crystal Class }\
+
+\begin{framed}
+  \textbf{Crystal Description (common forms, habit, etc.)}:  Crystal Description
+\end{framed}
+
+\begin{framed}
+  \textbf{Environment (where you find the material}:  Environment
+\end{framed}
+
+\begin{framed}
+  \textbf{Common Mineral Associations (in samples, also consult text, notes}:  Common Associations
+\end{framed}
+
+\begin{framed}
+  \textbf{Scientific Usage/Significance}:  Scientific Usage/Significance
+\end{framed}
+
+\begin{framed}
+  \textbf{Industrial or Social Use/Significance}:  Industiral/Social Use
+\end{framed}
+
+\begin{framed}
+  \textbf{Environmental Significance}:  Environmental Significance
+\end{framed}
+
+% \includegraphics{}
+
+% Possible other Solutions
+% \framebox(300,20){\minibox{\textbf{R-Sq}:For example}}
+
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

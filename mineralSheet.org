@@ -13,24 +13,25 @@
 
 
 _Highlight_
-+ Quartz
-+ Albite Anorthite
-+ Michrocline
-+ Orthoclase
-+ Sonidine
-+ Zeolites
-  - environment of formation.
-+ Sodolite
-  - environment of formation
-  - color
-+ Nepheline
-  - Luster
-  - Environment of Formation
-+ Levcite
-  - shape
-  - environment of formation
-+ Scapolite
-  - external shape
+1) Quartz
+2) Albite
+3) Anorthite
+4) Michrocline
+5) Orthoclase
+6) Sonidine
+7) Zeolites
+   - environment of formation.
+8) Sodolite
+   - environment of formation
+   - color
+9) Nepheline
+   - Luster
+   - Environment of Formation
+10) Levcite
+    - shape
+    - environment of formation
+11) Scapolite
+    - external shape
 
 * Mineral Name
 |------------------------------+---|
@@ -71,7 +72,79 @@ _Highlight_
 |------------------------------+---|
 | Environmental Significance   |   |
 |------------------------------+---|
-* Sodialite
+
+
+
+
+* Techtosilicates
+** TODO Quartz
+conchoidal fracture
+hardness of quartz
+luster of quartz
+** TODO Albite/Anorthite
+striations / twinning
+cleavage @ 90 degrees
+Crystal when in rock (laths)
+Environment of Formation
+** TODO Michrocline (k feldspar)
+prethitic, exolution temperature. White & pink look
+with pb, is white and green
+
+cleavage
+twinning
+** TODO Orthoclase (k feldspar)
+cleavage
+twinning
+** TODO Sanidine
+cleavage
+twinning
+
+forms in relly hot temperatures
+has that clearish look
+** TODO Stillbite/Zeolite
+it has formed in cavities
+|------------------------------+---|
+| Generic Mineral Formula      |   |
+|------------------------------+---|
+| Mineral Chemical Class       |   |
+|------------------------------+---|
+| Specific Gravity             |   |
+|------------------------------+---|
+| Crystal Syste m              |   |
+|------------------------------+---|
+| Hardness                     |   |
+|------------------------------+---|
+| Crystal Class                |   |
+|------------------------------+---|
+| Clevage                      |   |
+|------------------------------+---|
+| Crystal Description          |   |
+| (common forms, habit, etc.)  |   |
+|------------------------------+---|
+| Luster Streak                |   |
+|------------------------------+---|
+| Streak                       |   |
+|------------------------------+---|
+| Characteristic Color(s)      |   |
+|------------------------------+---|
+| Environment                  |   |
+| (where you find the mineral) |   |
+|------------------------------+---|
+| Common Mineral Associations  |   |
+| (in samples; also consult    |   |
+| text, notes)                 |   |
+|------------------------------+---|
+| Scientific use/significance  |   |
+|------------------------------+---|
+| Industrial or societal use/  |   |
+| significance                 |   |
+|------------------------------+---|
+| Environmental Significance   |   |
+|------------------------------+---|
+** IN-PROGRESS Sodialite
+Environment of formation feldpathoids
+Leucite is soccerball
+flouresces
  p. 258
 |------------------------------+-----------------------------------------|
 | Generic Mineral Formula      | Na_{8}(Al_{6}Si_{6}O_{24})Cl_{2}        |
@@ -116,7 +189,11 @@ _Highlight_
 |------------------------------+-----------------------------------------|
 | Environmental Significance   |                                         |
 |------------------------------+-----------------------------------------|
-* Luecite
+** TODO Nepheline
+Environment of formation feldpathoids
+luster (greasy)
+** IN-PROGRESS Luecite
+Environment of formation feldpathoids
  p.257
 |------------------------------+-----------------------------------------|
 | Generic Mineral Formula      | KAISi_{2}O_{6}                          |
@@ -157,47 +234,9 @@ _Highlight_
 |------------------------------+-----------------------------------------|
 | Environmental Significance   |                                         |
 |------------------------------+-----------------------------------------|
-* Stillbite/Zeolite
-|------------------------------+---|
-| Generic Mineral Formula      |   |
-|------------------------------+---|
-| Mineral Chemical Class       |   |
-|------------------------------+---|
-| Specific Gravity             |   |
-|------------------------------+---|
-| Crystal Syste m              |   |
-|------------------------------+---|
-| Hardness                     |   |
-|------------------------------+---|
-| Crystal Class                |   |
-|------------------------------+---|
-| Clevage                      |   |
-|------------------------------+---|
-| Crystal Description          |   |
-| (common forms, habit, etc.)  |   |
-|------------------------------+---|
-| Luster Streak                |   |
-|------------------------------+---|
-| Streak                       |   |
-|------------------------------+---|
-| Characteristic Color(s)      |   |
-|------------------------------+---|
-| Environment                  |   |
-| (where you find the mineral) |   |
-|------------------------------+---|
-| Common Mineral Associations  |   |
-| (in samples; also consult    |   |
-| text, notes)                 |   |
-|------------------------------+---|
-| Scientific use/significance  |   |
-|------------------------------+---|
-| Industrial or societal use/  |   |
-| significance                 |   |
-|------------------------------+---|
-| Environmental Significance   |   |
-|------------------------------+---|
 
-* Scapolite
+** IN-PROGRESS Scapolite
+Shape & color. White, long rectangular prisms
 |------------------------------+-----------------------------------|
 | Generic Mineral Formula      | Na_{4}Al_{3}Si_{9}O_{24}Cl        |
 |------------------------------+-----------------------------------|
@@ -239,4 +278,4 @@ _Highlight_
 | Environmental Significance   |                                   |
 |------------------------------+-----------------------------------|
 
-
+* 
