@@ -1,0 +1,91 @@
+\documentclass[10pt]{article}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\graphicspath{{/Users/benjaminbass/Desktop/}}
+
+\usepackage{frame,color}
+\usepackage{framed}
+\usepackage{minibox}
+
+% \usepackage[T1]{fontenc}
+% \usepackage{tilting} %bring title up
+% \setlength{\droptitle}{-10cm}
+
+\usepackage[version=3]{mhchem}
+% How to Use MChem
+% \ce{SO4^2-}
+% \ce{^{227}_{90}Th+}
+% \ce{A\bond{-}B\bond{=}C\bond{#}D}
+% \ce{CO2 + C -> 2CO}
+% \ce{SO4^2- + Ba^2+ -> BaSO4 v}
+
+
+\author{Benjamin Bass}
+\date{24 February 2016}
+\title{\vspace{-2.0cm}Sanidine} %bring title up temporary Fix
+
+\begin{document}
+
+\maketitle
+
+% \framebox{Use frameboxes until figure out alignmen}
+
+% \begin{center}
+%   \includegraphics{}
+% \end{center}
+
+
+
+\framebox[15cm][l]{\textbf{General Mineral Formula}: \ce{(K,Na)AlSi3O8} }\
+\framebox[15cm][l]{\textbf{Mineral Chemical Class}: Tectosilicates }\
+\framebox[15cm][l]{\textbf{Specific Gravity}: 2.5-2.6 }\
+\framebox[15cm][l]{\textbf{Hardness}: 6 }\
+\framebox[15cm][l]{\textbf{Cleavage}: 1,1 basal, 2,1 prismatic. angle of 90 degrees }\
+\framebox[15cm][l]{\textbf{Luster}: Vitreous to pearly }\
+\framebox[15cm][l]{\textbf{Streak}: White }\
+\framebox[15cm][l]{\textbf{Characteristic Color(s)}: Colorless, white, cream }\
+\framebox[15cm][l]{\textbf{Crystal System}: Monoclinic }\
+\framebox[15cm][l]{\textbf{Crystal Class}: -------------------- }\
+
+\begin{framed}
+  \textbf{Crystal Description (common forms, habit, etc.)}: Commonly tabular crystals but occasionally prismatic. Frequent penetration twins and repeated twins. Can occur massive and grainy.
+\end{framed}
+
+\begin{framed}
+  \textbf{Environment (where you find the material}: In recent Alkaline volcanic environments rich in potassium
+\end{framed}
+
+\begin{framed}
+  \textbf{Common Mineral Associations (in samples, also consult text, notes}: Quarts, muscovite, biotite, plag. feldspars, sodalite
+\end{framed}
+
+\begin{framed}
+  \textbf{Scientific Usage/Significance}: --------------------
+\end{framed}
+
+\begin{framed}
+  \textbf{Industrial or Social Use/Significance}: Yellow variety used as a gemstone.
+\end{framed}
+
+\begin{framed}
+  \textbf{Environmental Significance}: --------------------
+\end{framed}
+
+% Possible other Solutions
+% \framebox(300,20){\minibox{\textbf{R-Sq}:For example}}
+
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:

@@ -77,31 +77,32 @@ _Highlight_
 
 
 * Techtosilicates
-** TODO Quartz
+** DONE Quartz
 conchoidal fracture
 hardness of quartz
 luster of quartz
-** TODO Albite/Anorthite
+** DONE Albite/Anorthite
 striations / twinning
 cleavage @ 90 degrees
 Crystal when in rock (laths)
 Environment of Formation
-** TODO Michrocline (k feldspar)
+** DONE Michrocline (k feldspar)
 prethitic, exolution temperature. White & pink look
 with pb, is white and green
 
 cleavage
 twinning
-** TODO Orthoclase (k feldspar)
+** DONE Orthoclase (k feldspar)
 cleavage
 twinning
-** TODO Sanidine
+** DONE Sanidine
+
 cleavage
 twinning
 
 forms in relly hot temperatures
 has that clearish look
-** TODO Stillbite/Zeolite
+** DONE Stillbite/Zeolite
 it has formed in cavities
 |------------------------------+---|
 | Generic Mineral Formula      |   |
@@ -141,9 +142,8 @@ it has formed in cavities
 |------------------------------+---|
 | Environmental Significance   |   |
 |------------------------------+---|
-** IN-PROGRESS Sodialite
+** DONE Sodialite
 Environment of formation feldpathoids
-Leucite is soccerball
 flouresces
  p. 258
 |------------------------------+-----------------------------------------|
@@ -189,11 +189,12 @@ flouresces
 |------------------------------+-----------------------------------------|
 | Environmental Significance   |                                         |
 |------------------------------+-----------------------------------------|
-** TODO Nepheline
+** DONE Nepheline
 Environment of formation feldpathoids
 luster (greasy)
-** IN-PROGRESS Luecite
+** DONE Luecite
 Environment of formation feldpathoids
+Leucite is soccerball
  p.257
 |------------------------------+-----------------------------------------|
 | Generic Mineral Formula      | KAISi_{2}O_{6}                          |
@@ -235,7 +236,7 @@ Environment of formation feldpathoids
 | Environmental Significance   |                                         |
 |------------------------------+-----------------------------------------|
 
-** IN-PROGRESS Scapolite
+** DONE Scapolite
 Shape & color. White, long rectangular prisms
 |------------------------------+-----------------------------------|
 | Generic Mineral Formula      | Na_{4}Al_{3}Si_{9}O_{24}Cl        |
