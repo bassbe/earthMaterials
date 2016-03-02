@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  2 MAR 2016 08:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  2 MAR 2016 12:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -254,6 +254,26 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/marvosym/marvosym.sty
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
 )
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 137.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks26
+\SOUL@lasttoken=\toks27
+\SOUL@cmds=\toks28
+\SOUL@buffer=\toks29
+\SOUL@token=\toks30
+\SOUL@spaceskip=\skip53
+\SOUL@ttwidth=\dimen120
+\SOUL@uldp=\dimen121
+\SOUL@ulht=\dimen122
+)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/wasysym/wasysym.sty
 Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
 \symwasy=\mathgroup4
@@ -327,7 +347,7 @@ Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
-\@linkdim=\dimen120
+\@linkdim=\dimen123
 \Hy@linkcounter=\count109
 \Hy@pagecounter=\count110
 
@@ -353,10 +373,10 @@ Package hyperref Info: Bookmarks ON on input line 4688.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen121
+\XeTeXLinkMargin=\dimen124
 \Fld@menulength=\count113
-\Field@Width=\dimen122
-\Fld@charsize=\dimen123
+\Field@Width=\dimen125
+\Fld@charsize=\dimen126
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -383,7 +403,7 @@ Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip53
+\Hy@SectionHShift=\skip54
 )
 (/usr/local/texlive/2014/texmf-dist/tex/generic/frame/frame.sty
 Package: frame 2010/05/15 package wrapper for frame.tex (hv)
@@ -392,25 +412,17 @@ Package: frame 2010/05/15 package wrapper for frame.tex (hv)
   v1.0  2010/05/15  <tvz>
 \fancyboxA=\box39
 \fancyboxB=\box40
-\fancyboxD=\dimen124
+\fancyboxD=\dimen127
 )
 File: frame.tex 2010/05/15 v1.0 `frame' (tvz,hv)
 )
-(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2014/04/23 v1.1a Standard LaTeX Color (DPC)
-
-(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
-File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
-)
-Package color Info: Driver file: pdftex.def on input line 137.
-)
 (/usr/local/texlive/2014/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip54
-\fb@frw=\dimen125
-\fb@frh=\dimen126
-\FrameRule=\dimen127
-\FrameSep=\dimen128
+\OuterFrameSep=\skip55
+\fb@frw=\dimen128
+\fb@frh=\dimen129
+\FrameRule=\dimen130
+\FrameSep=\dimen131
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/minibox/minibox.sty
 (/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -449,18 +461,18 @@ L3 Module: l3file 2014/05/05 v4737 L3 File and I/O operations
 \l__iow_current_word_int=\count129
 \l__iow_current_indentation_int=\count130
 L3 Module: l3skip 2014/05/05 v4738 L3 Dimensions and skips
-\c_zero_dim=\dimen129
-\c_max_dim=\dimen130
-\l_tmpa_dim=\dimen131
-\l_tmpb_dim=\dimen132
-\g_tmpa_dim=\dimen133
-\g_tmpb_dim=\dimen134
-\c_zero_skip=\skip55
-\c_max_skip=\skip56
-\l_tmpa_skip=\skip57
-\l_tmpb_skip=\skip58
-\g_tmpa_skip=\skip59
-\g_tmpb_skip=\skip60
+\c_zero_dim=\dimen132
+\c_max_dim=\dimen133
+\l_tmpa_dim=\dimen134
+\l_tmpb_dim=\dimen135
+\g_tmpa_dim=\dimen136
+\g_tmpb_dim=\dimen137
+\c_zero_skip=\skip56
+\c_max_skip=\skip57
+\l_tmpa_skip=\skip58
+\l_tmpb_skip=\skip59
+\g_tmpa_skip=\skip60
+\g_tmpb_skip=\skip61
 \c_zero_muskip=\muskip12
 \c_max_muskip=\muskip13
 \l_tmpa_muskip=\muskip14
@@ -488,13 +500,13 @@ L3 Module: l3box 2014/05/04 v4728 L3 Experimental boxes
 \g_tmpb_box=\box45
 L3 Module: l3coffins 2014/05/04 v4728 L3 Coffin code layer
 \l__coffin_internal_box=\box46
-\l__coffin_internal_dim=\dimen135
-\l__coffin_offset_x_dim=\dimen136
-\l__coffin_offset_y_dim=\dimen137
-\l__coffin_x_dim=\dimen138
-\l__coffin_y_dim=\dimen139
-\l__coffin_x_prime_dim=\dimen140
-\l__coffin_y_prime_dim=\dimen141
+\l__coffin_internal_dim=\dimen138
+\l__coffin_offset_x_dim=\dimen139
+\l__coffin_offset_y_dim=\dimen140
+\l__coffin_x_dim=\dimen141
+\l__coffin_y_dim=\dimen142
+\l__coffin_x_prime_dim=\dimen143
+\l__coffin_y_prime_dim=\dimen144
 \c_empty_coffin=\box47
 \l__coffin_aligned_coffin=\box48
 \l__coffin_aligned_internal_coffin=\box49
@@ -503,34 +515,34 @@ L3 Module: l3coffins 2014/05/04 v4728 L3 Coffin code layer
 \l__coffin_display_coffin=\box52
 \l__coffin_display_coord_coffin=\box53
 \l__coffin_display_pole_coffin=\box54
-\l__coffin_display_offset_dim=\dimen142
-\l__coffin_display_x_dim=\dimen143
-\l__coffin_display_y_dim=\dimen144
+\l__coffin_display_offset_dim=\dimen145
+\l__coffin_display_x_dim=\dimen146
+\l__coffin_display_y_dim=\dimen147
 L3 Module: l3color 2014/04/30 v4712 L3 Experimental color support
 L3 Module: l3luatex 2014/04/30 v4712 L3 Experimental LuaTeX-specific functions
 \g__cctab_allocate_int=\count142
 \g__cctab_stack_int=\count143
 L3 Module: l3candidates 2014/05/04 v4734 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen145
-\l__box_bottom_dim=\dimen146
-\l__box_left_dim=\dimen147
-\l__box_right_dim=\dimen148
-\l__box_top_new_dim=\dimen149
-\l__box_bottom_new_dim=\dimen150
-\l__box_left_new_dim=\dimen151
-\l__box_right_new_dim=\dimen152
+\l__box_top_dim=\dimen148
+\l__box_bottom_dim=\dimen149
+\l__box_left_dim=\dimen150
+\l__box_right_dim=\dimen151
+\l__box_top_new_dim=\dimen152
+\l__box_bottom_new_dim=\dimen153
+\l__box_left_new_dim=\dimen154
+\l__box_right_new_dim=\dimen155
 \l__box_internal_box=\box55
-\l__coffin_bounding_shift_dim=\dimen153
-\l__coffin_left_corner_dim=\dimen154
-\l__coffin_right_corner_dim=\dimen155
-\l__coffin_bottom_corner_dim=\dimen156
-\l__coffin_top_corner_dim=\dimen157
-\l__coffin_scaled_total_height_dim=\dimen158
-\l__coffin_scaled_width_dim=\dimen159
+\l__coffin_bounding_shift_dim=\dimen156
+\l__coffin_left_corner_dim=\dimen157
+\l__coffin_right_corner_dim=\dimen158
+\l__coffin_bottom_corner_dim=\dimen159
+\l__coffin_top_corner_dim=\dimen160
+\l__coffin_scaled_total_height_dim=\dimen161
+\l__coffin_scaled_width_dim=\dimen162
 ))
 Package: minibox 2013/06/21 v0.2a Another type of box.
-\l_minibox_rule_dim=\dimen160
-\l_minibox_pad_dim=\dimen161
+\l_minibox_rule_dim=\dimen163
+\l_minibox_pad_dim=\dimen164
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/mhchem/mhchem.sty
 Package: mhchem 2014/03/27 v3.17 for typesetting chemical formulae
@@ -539,75 +551,75 @@ Package: mhchem 2014/03/27 v3.17 for typesetting chemical formulae
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count144
 \calc@Bcount=\count145
-\calc@Adimen=\dimen162
-\calc@Bdimen=\dimen163
-\calc@Askip=\skip61
-\calc@Bskip=\skip62
+\calc@Adimen=\dimen165
+\calc@Bdimen=\dimen166
+\calc@Askip=\skip62
+\calc@Bskip=\skip63
 LaTeX Info: Redefining \setlength on input line 75.
 LaTeX Info: Redefining \addtolength on input line 76.
 \calc@Ccount=\count146
-\calc@Cskip=\skip63
+\calc@Cskip=\skip64
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/twoopt.sty
 Package: twoopt 2008/08/11 v1.5 Definitions with two optional arguments (HO)
 )
-\mhchem@ce@result=\toks26
-\mhchem@ce@part=\toks27
-\mhchem@arrow@deployType=\toks28
-\mhchem@arrow@params=\toks29
-\mhchem@arrowlength@pgf=\skip64
-\mhchem@bondwidth=\skip65
-\mhchem@bondheight=\skip66
-\mhchem@smallbondwidth@tmpA=\skip67
-\mhchem@smallbondwidth@tmpB=\skip68
-\mhchem@smallbondwidth=\skip69
+\mhchem@ce@result=\toks31
+\mhchem@ce@part=\toks32
+\mhchem@arrow@deployType=\toks33
+\mhchem@arrow@params=\toks34
+\mhchem@arrowlength@pgf=\skip65
+\mhchem@bondwidth=\skip66
+\mhchem@bondheight=\skip67
+\mhchem@smallbondwidth@tmpA=\skip68
+\mhchem@smallbondwidth@tmpB=\skip69
+\mhchem@smallbondwidth=\skip70
 \__mhchem_option_version_int=\count147
-\mhchem@prepostscript@tmp@i=\skip70
-\mhchem@prepostscript@tmp@ii=\skip71
-\mhchem@mathbox@tmp@i=\skip72
-\mhchem@mathbox@tmp@ii=\skip73
-\mhchem@minispace@tmp=\skip74
-\mhchem@option@minussidebearingleft=\skip75
-\mhchem@option@minussidebearingright=\skip76
+\mhchem@prepostscript@tmp@i=\skip71
+\mhchem@prepostscript@tmp@ii=\skip72
+\mhchem@mathbox@tmp@i=\skip73
+\mhchem@mathbox@tmp@ii=\skip74
+\mhchem@minispace@tmp=\skip75
+\mhchem@option@minussidebearingleft=\skip76
+\mhchem@option@minussidebearingright=\skip77
 )
 (./diopside_augite.aux)
 \openout1 = `diopside_augite.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 38.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count148
-\scratchdimen=\dimen164
+\scratchdimen=\dimen167
 \scratchbox=\box56
 \nofMPsegments=\count149
 \nofMParguments=\count150
-\everyMPshowfont=\toks30
+\everyMPshowfont=\toks35
 \MPscratchCnt=\count151
-\MPscratchDim=\dimen165
+\MPscratchDim=\dimen168
 \MPnumerator=\count152
 \makeMPintoPDFobject=\count153
-\everyMPtoPDFconversion=\toks31
+\everyMPtoPDFconversion=\toks36
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
 
@@ -624,7 +636,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box57
-Package hyperref Info: Link coloring OFF on input line 37.
+Package hyperref Info: Link coloring OFF on input line 38.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -634,25 +646,25 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count154
 )
-LaTeX Info: Redefining \ref on input line 37.
-LaTeX Info: Redefining \pageref on input line 37.
-LaTeX Info: Redefining \nameref on input line 37.
+LaTeX Info: Redefining \ref on input line 38.
+LaTeX Info: Redefining \pageref on input line 38.
+LaTeX Info: Redefining \nameref on input line 38.
 
 (./diopside_augite.out) (./diopside_augite.out)
 \@outlinefile=\write3
 \openout3 = `diopside_augite.out'.
 
-LaTeX Font Info:    Try loading font information for U+wasy on input line 40.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 41.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 40.
+LaTeX Font Info:    Try loading font information for U+msa on input line 41.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 40.
+LaTeX Font Info:    Try loading font information for U+msb on input line 41.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -665,7 +677,7 @@ narock1.png Graphic file (type png)
 <use /Users/benjaminbass/seacloud/class/earthMaterials/picBank/clinopyroxene_in
 arock1.png>
 Package pdftex.def Info: /Users/benjaminbass/seacloud/class/earthMaterials/picB
-ank/clinopyroxene_inarock1.png used on input line 44.
+ank/clinopyroxene_inarock1.png used on input line 45.
 (pdftex.def)             Requested size: 122.8662pt x 163.8216pt.
 
 </Users/benjaminbass/seacloud/class/earthMaterials/picBank/clinopyroxene_inaroc
@@ -676,55 +688,55 @@ narock2.png Graphic file (type png)
 <use /Users/benjaminbass/seacloud/class/earthMaterials/picBank/clinopyroxene_in
 arock2.png>
 Package pdftex.def Info: /Users/benjaminbass/seacloud/class/earthMaterials/picB
-ank/clinopyroxene_inarock2.png used on input line 45.
+ank/clinopyroxene_inarock2.png used on input line 46.
 (pdftex.def)             Requested size: 122.8662pt x 163.8216pt.
 
-Overfull \hbox (96.79134pt too wide) in paragraph at lines 48--58
+Overfull \hbox (96.79134pt too wide) in paragraph at lines 49--59
 [][]
  []
 
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 48--58
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 49--59
 []
  []
 
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 48--58
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 49--59
 []
  []
 
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 48--58
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 49--59
 []
  []
 
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 48--58
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 49--59
 []
  []
 
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 48--58
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 49--59
 []
  []
 
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 48--58
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 49--59
 []
  []
 
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 48--58
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 49--59
 []
  []
 
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 48--58
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 49--59
 []
  []
 
 
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 48--58
+Overfull \hbox (81.79134pt too wide) in paragraph at lines 49--59
 [] 
  []
 
@@ -734,22 +746,22 @@ Overfull \hbox (81.79134pt too wide) in paragraph at lines 48--58
 benjaminbass/seacloud/class/earthMaterials/picBank/clinopyroxene_inarock1.png> 
 </Users/benjaminbass/seacloud/class/earthMaterials/picBank/clinopyroxene_inaroc
 k2.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 86.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
  [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 86.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
  (./diopside_augite.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 86.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 86.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 87.
 Package rerunfilecheck Info: File `diopside_augite.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 86.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 87.
  ) 
 Here is how much of TeX's memory you used:
- 12719 strings out of 493117
- 214559 string characters out of 6135433
- 281505 words of memory out of 5000000
- 16037 multiletter control sequences out of 15000+600000
- 11979 words of font info for 49 fonts, out of 8000000 for 9000
+ 12889 strings out of 493117
+ 216670 string characters out of 6135433
+ 287979 words of memory out of 5000000
+ 16201 multiletter control sequences out of 15000+600000
+ 12292 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,11n,35p,10359b,351s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
@@ -759,7 +771,7 @@ sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
 /local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/lo
 cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
 /texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on diopside_augite.pdf (2 pages, 34245893 bytes).
+Output written on diopside_augite.pdf (2 pages, 34246301 bytes).
 PDF statistics:
  54 PDF objects out of 1000 (max. 8388607)
  38 compressed objects within 1 object stream

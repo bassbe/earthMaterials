@@ -4,7 +4,7 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "10pt")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("ulem" "normalem")))
+                     '(("ulem" "normalem") ("mhchem" "version=3")))
    (TeX-run-style-hooks
     "latex2e"
     "article"
@@ -20,10 +20,12 @@
     "wasysym"
     "amssymb"
     "hyperref"
+    "color"
+    "soul"
     "graphicx"
     "frame"
-    "color"
     "framed"
-    "minibox"))
+    "minibox"
+    "mhchem"))
  :latex)
 
