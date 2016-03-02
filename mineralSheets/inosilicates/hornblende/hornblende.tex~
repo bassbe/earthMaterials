@@ -1,0 +1,93 @@
+\documentclass[10pt]{article}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{rotating}
+\usepackage[normalem]{ulem}
+\usepackage{amsmath}
+\usepackage{textcomp}
+\usepackage{marvosym}
+\usepackage{wasysym}
+\usepackage{amssymb}
+\usepackage{hyperref}
+\usepackage{color,soul} % for highlighting
+\usepackage{graphicx}
+\graphicspath{{/Users/benjaminbass/seacloud/class/earthMaterials/picBank/}}
+
+\usepackage{frame,color}
+\usepackage{framed}
+\usepackage{minibox}
+
+% \usepackage[T1]{fontenc}
+% \usepackage{tilting} %bring title up
+% \setlength{\droptitle}{-10cm}
+
+\usepackage[version=3]{mhchem}
+% How to Use MChem
+% \ce{SO4^2-}
+% \ce{^{227}_{90}Th+}
+% \ce{A\bond{-}B\bond{=}C\bond{#}D}
+% \ce{CO2 + C -> 2CO}
+% \ce{SO4^2- + Ba^2+ -> BaSO4 v}
+
+
+\author{Benjamin Bass}
+\date{2 March 2016}
+\title{\vspace{-2.0cm}Hornblende} %bring title up temporary Fix
+
+\begin{document}
+
+\maketitle
+
+% \framebox{Use frameboxes until figure out alignmen}
+
+\begin{center}
+  \includegraphics{}
+  \includegraphics{}
+\end{center}
+
+
+
+\framebox[15cm][l]{\textbf{General Mineral Formula}: $(Na, K)_{0-1}Ca_{2}(Mg,Fe,Al)_{5}(Si,Al)_{8}O_{22} (OH)_{2}$ }\
+\framebox[15cm][l]{\textbf{Mineral Chemical Class}:  }\
+\framebox[15cm][l]{\textbf{Specific Gravity}:  }\
+\framebox[15cm][l]{\textbf{Hardness}:  }\
+\framebox[15cm][l]{\textbf{Cleavage}:  }\
+\framebox[15cm][l]{\textbf{Luster}:  }\
+\framebox[15cm][l]{\textbf{Streak}:  }\
+\framebox[15cm][l]{\textbf{Characteristic Color(s)}:  }\
+\framebox[15cm][l]{\textbf{Crystal System}:  }\
+\framebox[15cm][l]{\textbf{Crystal Class}:  }\
+
+\begin{framed}
+  \textbf{Crystal Description (common forms, habit, etc.)}: 
+\end{framed}
+
+\begin{framed}
+  \textbf{Environment (where you find the material}: 
+\end{framed}
+
+\begin{framed}
+  \textbf{Common Mineral Associations (in samples, also consult text, notes}: 
+\end{framed}
+
+\begin{framed}
+  \textbf{Scientific Usage/Significance}: 
+\end{framed}
+
+\begin{framed}
+  \textbf{Industrial or Social Use/Significance}: 
+\end{framed}
+
+\begin{framed}
+  \textbf{Environmental Significance}: 
+\end{framed}
+
+% Possible other Solutions
+% \framebox(300,20){\minibox{\textbf{R-Sq}:For example}}
+
+\end{document}
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
