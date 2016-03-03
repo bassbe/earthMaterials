@@ -1,0 +1,40 @@
+#+TITLE: Phyllosilicate Checklist
+#+AUTHOR: Benjamin Bass
+# Tally system used to keep track of the items needed when constructing the
+# mineral sheets. A checklist of sorts.
+
+* Phyllosilicates [0%]
+** TODO Biotite [1/4]
+*** TODO Annotate photos with identification description
+- Black mica; the most common sheet silicate.
+- Black and vitreous in hand sample.
+*** TODO HL: Xternal shape
+*** DONE HL: Color
+*** TODO HL: Cleavage
+** TODO Muscovite [/]
+*** TODO Annotate photos with identification description
+- White mica; present in all pelitic metamorphic rocks and s-type granites.
+*** TODO HL: Xternal Shape
+*** TODO HL: Color
+*** TODO HL: Cleavage
+** TODO Chlorite [/]
+*** TODO Annotate photos with identification description
+- common sheet silicate
+- found in low-grade pelitic and mafic metamorphic rocks
+*** TODO HL: Xternal Shape
+*** TODO HL: Color
+*** TODO HL: Mineral Assemblage/Environment of Formation
+*** TODO HL: Cleavage
+** TODO Serpentine [/]
+*** TODO Annotate photos with identification description
+*** TODO HL: Xternal Shape
+*** TODO HL: Color
+*** TODO HL: Mineral Assemblage/Environment of Formation
+** TODO Talc [/]
+*** TODO Annotate photos with identification description
+- Soft, greasy look and feel.
+- White, greenish or pale brown
+- Often associated with hydrothermal alteration of ultramafic rocks
+*** TODO HL: Color
+*** TODO HL: Mineral Assemblage/Environment of Formation
+*** TODO HL: Hardness

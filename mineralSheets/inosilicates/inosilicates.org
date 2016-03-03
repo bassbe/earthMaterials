@@ -1,0 +1,67 @@
+#+TITLE: Inosilicates Checklist
+#+AUTHOR: Benjamin Bass
+# Tally system used to keep track of the items needed when constructing the
+# mineral sheets. A checklist of sorts.
+
+* Clinoamphiboles [100%]
+** DONE Actinolite[5/5]
+*** DONE Annotate photos with identification description
+- Distincitve Green Color
+*** DONE HL: Xternal Shape
+*** DONE HL: Color
+*** DONE HL: Environment of Formation
+*** DONE HL: Cleavage
+** DONE Glaucophane[5/5]
+*** DONE Annotate photos with identification description
+- Distinctive blue color in hand sample.
+- Why we call high-pressure low-temperature rock "blueschist"
+*** DONE HL: Xternal Shape
+*** DONE HL: Color
+*** DONE HL: Mineral Assmeblage
+*** DONE HL: Cleavage
+** DONE Hornblende[4/4]
+*** DONE Annotate photos with identification description
+- Most common amphibole. Dark black to dark green.
+- Usually used as garbage-can term for any amphibole.
+*** DONE HL: Xternal Shape
+*** DONE HL: Color
+*** DONE HL: Cleavage
+** DONE [#B] Tremolite[5/5]
+*** DONE Annotate photos with identification description
+- Pure Mg tremolite is white.
+- Color is easiest way to diff from hornblende.
+- Fibrous form is regulated as asbestos.
+- Requires a Mg-rich environment to form (ex: a metamorphosed dolomite or serpentinite)
+*** DONE HL: Xternal Shape
+*** DONE HL: Color
+*** DONE HL: Environment of Formation
+*** DONE HL: Cleavage
+* Clinopyroxenes [100%]
+** DONE Diopsite & Augite[6/6]
+*** DONE Annotate photos with identification description
+- Augite appears as black stubby prisms in hand sample
+- Diopside-hedenbergite is greenish color and even emerald green when Cr is present
+- 90 degree cleavage in hand samples
+*** DONE HL: Xternal Shape
+*** DONE HL: Color
+*** DONE HL: Mineral Assemblage
+*** DONE HL: Cleavage
+*** DONE HL: Crystal System (not necessary for hand samples)
+** DONE Omphacite[5/5]
+*** DONE Annotate photos with identification description
+- Brilliant green pyroxene that forms in eclogite facies rocks.
+- Mineral association with garnet or Kyanite can help separate from other pyroxenes
+*** DONE HL: Xternal Shape
+*** DONE HL: Color
+*** DONE HL: Mineral Assemblage
+*** DONE HL: Cleavage
+* Orthopyroxenes [100%]
+** DONE Enstatite[6/6]
+*** DONE Annotate photos with identification description
+*** DONE HL: Xternal Shape
+*** DONE HL: Color
+*** DONE HL: Mineral Assemblage
+*** DONE HL: Cleavage
+*** DONE HL: Crystal System (not necessary for hand samples)
+* Questions
+- whats the difference between mineral assemblage and external shape or environment of formation?
