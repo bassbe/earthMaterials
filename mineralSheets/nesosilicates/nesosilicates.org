@@ -1,0 +1,45 @@
+#+TITLE: Nesosilicate Checklist
+#+AUTHOR:Benjamin Bass
+
+* Nesosilicates
+** DONE Olivine[4/4]*
+*** DONE Anotate Photos with Identification Description
+*** DONE HL: Color
+*** DONE HL: Fracture
+*** DONE HL: Mineral Associations
+** DONE Garnet[4/4]
+*** DONE Anotate Photos with Identification Description
+*** DONE HL: Color
+*** DONE HL: Xternal Shape
+*** DONE HL: Hardness
+** DONE Staurolite[5/5]
+*** DONE Anotate Photos with Identification Description
+- is an important index mineral for metamorphic rocks (more on thie later in the semester).
+*** DONE HL: Color
+*** DONE HL: Xternal Shape
+*** DONE Twinning
+*** DONE Environment of Formation
+** DONE Andalusite[4/4]
+*** DONE Anotate Photos with Identification Description
+- Andalusite, kyanite, and sillimanite are polymorphs (i.e. have the same chemical formula) and are therefore very useful as metamorphic index minerals- since they crystalize at different temperatures and pressures (see Fig. 16.9 pg 347)
+*** DONE HL: Xternal Shape
+*** DONE HL: "x" in cross section
+*** DONE HL: Evironment of Formation
+** DONE Kyanite[3/3]
+*** DONE Anotate Photos with Identification Description
+*** DONE HL: Xternal Shape
+*** DONE Color
+** DONE Sillimanite[2/2]
+*** DONE Anotate Photos with Identification Description
+*** DONE HL: Xternal Shape (Small, Fiber-Like)
+** DONE Zircon[4/4]
+*** DONE Anotate Photos with Identification Description
+- Zircon is an accessory mineral that is importnat for U-Pb geochronology. The zircon we see in lab today is highly unusual. Zircon is typically microscopic.
+*** DONE HL: Tetragonal Form
+*** DONE HL: Environment of Formation
+*** DONE HL: Microscopic/Not Visible in Hang Sample
+** DONE Titanite (Sphene)[4/4]
+*** DONE Anotate Photos with Identification Description
+*** DONE HL: Wedge-Saped Crystals
+*** DONE HL: Tan Brown Color
+*** DONE HL: High Luster

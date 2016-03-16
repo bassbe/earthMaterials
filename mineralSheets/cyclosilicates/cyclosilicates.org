@@ -1,0 +1,14 @@
+#+TITLE: Cyclosilicates Checklist
+#+Author: Benjamin Bass
+
+* Cyclosilicates
+
+** DONE Tourmaline
+*** DONE Anotate Photos with Identification Description
+*** DONE HL: Xternal Shape (rounded trianle in cross section)
+*** DONE HL: Striations down side of xtal
+** DONE Beryl
+*** DONE Anotate Photos with Identification Description
+*** DONE HL: Xtal Shape
+*** DONE HL: Strong Basal Cleavage
+*** DONE HL: Hardness

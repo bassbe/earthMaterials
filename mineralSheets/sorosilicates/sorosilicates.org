@@ -1,0 +1,9 @@
+#+TITLE: Sorosilicates Checklist
+#+Author: Benjamin Bass
+
+* Sorosilicates
+** DONE Epidote
+*** DONE Anotate Photos with Identification Description
+*** DONE HL: Pistachio Green Color
+*** DONE HL: Elongate Prisms
+*** DONE HL: Envronment of Formation

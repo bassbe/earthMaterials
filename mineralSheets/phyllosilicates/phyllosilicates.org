@@ -3,7 +3,7 @@
 # Tally system used to keep track of the items needed when constructing the
 # mineral sheets. A checklist of sorts.
 
-* Phyllosilicates [80%]
+* Phyllosilicates [100%]
 ** DONE Biotite [4/4]
 *** DONE Annotate photos with identification description
 - Black mica; the most common sheet silicate.
@@ -32,7 +32,7 @@
 *** DONE HL: Xternal Shape
 *** DONE HL: Color
 *** DONE HL: Mineral Assemblage/Environment of Formation
-** TODO Talc [4/4]
+** DONE Talc [4/4]
 *** DONE Annotate photos with identification description
 - Soft, greasy look and feel.
 - White, greenish or pale brown
