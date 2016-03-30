@@ -1,0 +1,74 @@
+================================================================================
++ Flourite: Ben + Nick
+  - Isometric, blocky shape
+  - Cleavage:1, all sides
+  - Vitreous luster (glassy)
+  - Purple might be flourite
+  - 
+  - crystal shape
+  - Cleavage
+  - glassy luster
+  - environment
+ --------------------------------------------------------------------------------
++ Halite
+  - cleavage is a clear and perfect cube
+  - Not always clear, can be grown together and gets darker. Can be pink, black, grey,etc
+  - Environment of formatio: areas where there was water, evaporated, then came back.
+  - Vitreous luster
+  - Hardness: 2-2.5
+  - Perfect Cube
+  - UNIMP: Can be confused wih quartz, but softer and tastier
+  - UNIMP: things that are thermodynamically stable, but it weathers rapidly because its water soluable.
+
+--------------------------------------------------------------------------------
++ Gypsum
+  - Another Evaporite
+  - Hardness of 2, easily scrath it
+  - 1 dominant lceavage, no 90 degrees
+  - Clear and white
+  - Could form in a ton of ways. common in glass-like or massive silky fibrous fibers.
+  - Alabaster is massive gypsum. Found in that one cave in Mex
+  - Could be confused with
+    * Halite: cubed, not in gypsum sheets
+    * Calcite: calcite reacts with HCl (to form CO2), and gypsum doesn't
+    * Quartz: has concoidal fracture
+
+--------------------------------------------------------------------------------
++ Barite
+  - Very heavy element (specG: 4.5)
+  - Has an interesting of growth: hydrothermal and mesothermal
+  - Crystal shape is platy in many circumstances. very identifying but not exactly totally obvious.
+  - Could be confused with calcite, flourite, and feldspar, but density gives it away
+  - Fairly soft, 2.5-3.5
+--------------------------------------------------------------------------------
++ Calcite
+  - CaCo
+  - can look very different
+  - Rhombohedral classic
+  - Rects with HCl
+  - Hardness is 3
+    * no 90 degree angles, reacts with HCl
+    * 
+--------------------------------------------------------------------------------
++ Dolomite
+  - crystal shape: forms in groups of small rhombohedral crystals, but curved
+  - reacts with HCl when powdered
+  - environment, formed in dolostone. rock comprised of dolomite.
+  - Usually colorless, white, or grey OR pinkish
+    * might confuse it with calcite or feldspar
+--------------------------------------------------------------------------------
++ Apatite
+  - green/blue color
+  - Shape is harder to tell in smaller pieces
+  - Ca5(PO4)3
+
+
+--------------------------------------------------------------------------------
++ Argonite
+  - CaCO3
+  - Forms columnar aggregates
+  - Forms in HighPressure Low Temperature
+  - Precipitates in Sea Water
+  - reacts with HCl
+  - 
+================================================================================

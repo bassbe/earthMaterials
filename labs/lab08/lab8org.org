@@ -1,0 +1,78 @@
+#+TITLE: Lab 8 Checklist
+#+AUTHOR: Benjamin Bass
+
+* Carbonates
+** Malachite [3/3]
+*** DONE Annotate Photo
+*** DONE Streak: Torquoise-Green
+*** DONE Color
+** Azurite [6/6]
+*** DONE Annotate Photo
+*** DONE Formula
+*** DONE Azure blue color
+*** DONE Effervesces a little
+*** DONE Formas: Encrusting Botryoidal
+*** DONE Always associated with Malachite or smithsonite
+   
+* Sulfides
+** Galena [6/6]
+*** DONE Annotate Photo
+*** DONE Spec Grav: 7.58, very heavy
+*** DONE Galena only  has one color
+*** DONE Luster: Metalic
+*** DONE Cubic form
+*** DONE Perfect cubic cleavage
+** Marcasite [8/8]
+*** DONE Annotate Photo
+*** DONE Cockscomb Form.
+*** DONE Luster: Metallic
+*** DONE Polymorph
+*** DONE Powders Up Easily 
+*** DONE Cruddy Mineral
+*** DONE Same Chemical
+*** DONE Everybody's favorite something
+** Pyrite [5/5]
+*** DONE Annotate Photo
+*** DONE Color: Pale, brass yellow. Fools Gold
+*** DONE Crystal Form: Cubic or Pyritohedron
+*** DONE Streak: greenish/blackish brown (interesting)
+*** DONE Striations Perpindicular to each other
+** Sphalerite [5/5]
+*** DONE Annotate Photo
+*** DONE Streak: Palish Yellow
+*** DONE Luster: Metallic
+*** DONE Color (Usually Black (red or yellow))
+*** DONE Often confused with Garnet
+** Chalcopyrite [5/5]
+*** DONE Annotate Photo
+*** DONE Color: Yellow Compared to Pyrite
+*** DONE Form: Grainy massive form, Massive Habit
+*** DONE Luster: Irridescent Tarnish
+*** DONE Streak: Greenish Black
+** Bornite [4/4]
+*** DONE Annotate Photo
+*** DONE Color: Peacock Ore, colors of rainbow
+*** DONE Luster: Irridescent
+*** DONE Form: Massive Habit (tiny crystals intergrown in a mass. Indistinguishable)
+** Covelite [5/5]
+*** DONE Annotate Photo
+*** DONE Luster: Irridescent
+*** DONE Form: Platy Crystals + description
+*** DONE Color: Bluer Blue than Blue
+*** DONE Hardness of 1.5/2 (really soft)
+** Molybdenite [5/5]
+*** DONE Annotate Photo
+*** DONE Hardness: 1-1.5, if you rub it, it comes off in hand
+*** DONE Luster: Metallic
+*** DONE Streak: Greyish Blue
+*** DONE Form: Plate/Hexagonal
+
+
+
+
+
+** Chalcocite (No Sheet)
+** Stibnite (No Sheet)
+** Cinnabar (No Sheet)
+** Realgar (No Sheet)
+** Orpiment (No Sheet)

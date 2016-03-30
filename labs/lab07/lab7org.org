@@ -1,0 +1,41 @@
+Lab 8 i Org 
+
+
+** Apatite [4/4]
+*** DONE Anotate Photo
+*** DONE Color
+*** DONE Shape
+*** DONE Formula
+** Barite [3/3]
+*** DONE Anotate Photo
+*** DONE Dense
+*** DONE Platy Crystal Shape
+** Dolomite [5/5]
+*** DONE Anotate Photo
+*** DONE Chomboredal external but curved
+*** DONE CaMg(CO3)2
+*** DONE React with HCl when powdered
+*** DONE Color - clear, white, grey, or pink
+** Gypsum [4/4]
+*** DONE Anotate Photo
+*** DONE Hardness of 2
+*** DONE I dominant cleavage, no 90 degrees
+*** DONE Clear to White
+** Aragonite [1/1]
+*** DONE Anotate Photo
+** Calcite [4/4]
+*** DONE Anotate Photo
+*** DONE Chomboredal
+*** DONE Reacts with HCl
+*** DONE Hardness = 3
+** Flourite [5/5]
+*** DONE Anotate Photo
+*** DONE Crysal Shape
+*** DONE Cleavage
+*** DONE Glassy Luster
+*** DONE Environment of Formation
+** Halite [3/4]
+*** TODO Anotate Photo
+*** DONE Vitreous Luster
+*** DONE Clear (unless impure)
+*** DONE Hardness
