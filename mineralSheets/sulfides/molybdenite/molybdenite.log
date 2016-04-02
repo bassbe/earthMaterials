@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  30 MAR 2016 04:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  2 APR 2016 03:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -405,24 +405,48 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@uldp=\dimen125
 \SOUL@ulht=\dimen126
 )
+(/usr/local/texlive/2014/texmf-dist/tex/latex/sidecap/sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+\SC@BOXWD=\dimen127
+\SC@CAPWD=\dimen128
+\SC@tempdima=\dimen129
+\SC@tempdimb=\dimen130
+\c@SC@C=\count119
+\SC@BOX=\box39
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2014/03/24 3.9k The Babel package
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2014/03/24 3.9k Babel common definitions
+\babel@savecnt=\count120
+\U@D=\dimen131
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
 (/usr/local/texlive/2014/texmf-dist/tex/generic/frame/frame.sty
 Package: frame 2010/05/15 package wrapper for frame.tex (hv)
 
 (/usr/local/texlive/2014/texmf-dist/tex/generic/frame/frame.tex
   v1.0  2010/05/15  <tvz>
-\fancyboxA=\box39
-\fancyboxB=\box40
-\fancyboxD=\dimen127
+\fancyboxA=\box40
+\fancyboxB=\box41
+\fancyboxD=\dimen132
 )
 File: frame.tex 2010/05/15 v1.0 `frame' (tvz,hv)
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip55
-\fb@frw=\dimen128
-\fb@frh=\dimen129
-\FrameRule=\dimen130
-\FrameSep=\dimen131
+\fb@frw=\dimen133
+\fb@frh=\dimen134
+\FrameRule=\dimen135
+\FrameSep=\dimen136
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/minibox/minibox.sty
 (/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3.sty
@@ -434,7 +458,7 @@ L3 Module: l3bootstrap 2014/05/16 v4782 L3 Bootstrap code
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/etex-pkg/etex.sty
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
-\et@xins=\count119
+\et@xins=\count121
 )
 L3 Module: l3names 2014/05/04 v4728 L3 Namespace for primitives
 L3 Module: l3basics 2014/05/04 v4728 L3 Basic definitions
@@ -442,31 +466,31 @@ L3 Module: l3expan 2014/04/30 v4712 L3 Argument expansion
 L3 Module: l3tl 2014/05/04 v4728 L3 Token lists
 L3 Module: l3seq 2014/04/30 v4712 L3 Sequences and stacks
 L3 Module: l3int 2014/05/16 v4776 L3 Integers
-\c_max_int=\count120
-\l_tmpa_int=\count121
-\l_tmpb_int=\count122
-\g_tmpa_int=\count123
-\g_tmpb_int=\count124
+\c_max_int=\count122
+\l_tmpa_int=\count123
+\l_tmpb_int=\count124
+\g_tmpa_int=\count125
+\g_tmpb_int=\count126
 L3 Module: l3quark 2014/05/04 v4728 L3 Quarks
 L3 Module: l3prg 2014/05/04 v4728 L3 Control structures
-\g__prg_map_int=\count125
+\g__prg_map_int=\count127
 L3 Module: l3clist 2014/05/04 v4728 L3 Comma separated lists
 L3 Module: l3token 2014/05/04 v4728 L3 Experimental token manipulation
 L3 Module: l3prop 2014/04/30 v4712 L3 Property lists
 L3 Module: l3msg 2014/05/04 v4728 L3 Messages
 L3 Module: l3file 2014/05/05 v4737 L3 File and I/O operations
-\l_iow_line_count_int=\count126
-\l__iow_target_count_int=\count127
-\l__iow_current_line_int=\count128
-\l__iow_current_word_int=\count129
-\l__iow_current_indentation_int=\count130
+\l_iow_line_count_int=\count128
+\l__iow_target_count_int=\count129
+\l__iow_current_line_int=\count130
+\l__iow_current_word_int=\count131
+\l__iow_current_indentation_int=\count132
 L3 Module: l3skip 2014/05/05 v4738 L3 Dimensions and skips
-\c_zero_dim=\dimen132
-\c_max_dim=\dimen133
-\l_tmpa_dim=\dimen134
-\l_tmpb_dim=\dimen135
-\g_tmpa_dim=\dimen136
-\g_tmpb_dim=\dimen137
+\c_zero_dim=\dimen137
+\c_max_dim=\dimen138
+\l_tmpa_dim=\dimen139
+\l_tmpb_dim=\dimen140
+\g_tmpa_dim=\dimen141
+\g_tmpb_dim=\dimen142
 \c_zero_skip=\skip56
 \c_max_skip=\skip57
 \l_tmpa_skip=\skip58
@@ -480,84 +504,84 @@ L3 Module: l3skip 2014/05/05 v4738 L3 Dimensions and skips
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
 L3 Module: l3keys 2014/05/08 v4753 L3 Key-value interfaces
-\g__keyval_level_int=\count131
-\l_keys_choice_int=\count132
+\g__keyval_level_int=\count133
+\l_keys_choice_int=\count134
 L3 Module: l3fp 2014/04/30 v4712 L3 Floating points
-\c__fp_leading_shift_int=\count133
-\c__fp_middle_shift_int=\count134
-\c__fp_trailing_shift_int=\count135
-\c__fp_big_leading_shift_int=\count136
-\c__fp_big_middle_shift_int=\count137
-\c__fp_big_trailing_shift_int=\count138
-\c__fp_Bigg_leading_shift_int=\count139
-\c__fp_Bigg_middle_shift_int=\count140
-\c__fp_Bigg_trailing_shift_int=\count141
+\c__fp_leading_shift_int=\count135
+\c__fp_middle_shift_int=\count136
+\c__fp_trailing_shift_int=\count137
+\c__fp_big_leading_shift_int=\count138
+\c__fp_big_middle_shift_int=\count139
+\c__fp_big_trailing_shift_int=\count140
+\c__fp_Bigg_leading_shift_int=\count141
+\c__fp_Bigg_middle_shift_int=\count142
+\c__fp_Bigg_trailing_shift_int=\count143
 L3 Module: l3box 2014/05/04 v4728 L3 Experimental boxes
-\c_empty_box=\box41
-\l_tmpa_box=\box42
-\l_tmpb_box=\box43
-\g_tmpa_box=\box44
-\g_tmpb_box=\box45
+\c_empty_box=\box42
+\l_tmpa_box=\box43
+\l_tmpb_box=\box44
+\g_tmpa_box=\box45
+\g_tmpb_box=\box46
 L3 Module: l3coffins 2014/05/04 v4728 L3 Coffin code layer
-\l__coffin_internal_box=\box46
-\l__coffin_internal_dim=\dimen138
-\l__coffin_offset_x_dim=\dimen139
-\l__coffin_offset_y_dim=\dimen140
-\l__coffin_x_dim=\dimen141
-\l__coffin_y_dim=\dimen142
-\l__coffin_x_prime_dim=\dimen143
-\l__coffin_y_prime_dim=\dimen144
-\c_empty_coffin=\box47
-\l__coffin_aligned_coffin=\box48
-\l__coffin_aligned_internal_coffin=\box49
-\l_tmpa_coffin=\box50
-\l_tmpb_coffin=\box51
-\l__coffin_display_coffin=\box52
-\l__coffin_display_coord_coffin=\box53
-\l__coffin_display_pole_coffin=\box54
-\l__coffin_display_offset_dim=\dimen145
-\l__coffin_display_x_dim=\dimen146
-\l__coffin_display_y_dim=\dimen147
+\l__coffin_internal_box=\box47
+\l__coffin_internal_dim=\dimen143
+\l__coffin_offset_x_dim=\dimen144
+\l__coffin_offset_y_dim=\dimen145
+\l__coffin_x_dim=\dimen146
+\l__coffin_y_dim=\dimen147
+\l__coffin_x_prime_dim=\dimen148
+\l__coffin_y_prime_dim=\dimen149
+\c_empty_coffin=\box48
+\l__coffin_aligned_coffin=\box49
+\l__coffin_aligned_internal_coffin=\box50
+\l_tmpa_coffin=\box51
+\l_tmpb_coffin=\box52
+\l__coffin_display_coffin=\box53
+\l__coffin_display_coord_coffin=\box54
+\l__coffin_display_pole_coffin=\box55
+\l__coffin_display_offset_dim=\dimen150
+\l__coffin_display_x_dim=\dimen151
+\l__coffin_display_y_dim=\dimen152
 L3 Module: l3color 2014/04/30 v4712 L3 Experimental color support
 L3 Module: l3luatex 2014/04/30 v4712 L3 Experimental LuaTeX-specific functions
-\g__cctab_allocate_int=\count142
-\g__cctab_stack_int=\count143
+\g__cctab_allocate_int=\count144
+\g__cctab_stack_int=\count145
 L3 Module: l3candidates 2014/05/04 v4734 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen148
-\l__box_bottom_dim=\dimen149
-\l__box_left_dim=\dimen150
-\l__box_right_dim=\dimen151
-\l__box_top_new_dim=\dimen152
-\l__box_bottom_new_dim=\dimen153
-\l__box_left_new_dim=\dimen154
-\l__box_right_new_dim=\dimen155
-\l__box_internal_box=\box55
-\l__coffin_bounding_shift_dim=\dimen156
-\l__coffin_left_corner_dim=\dimen157
-\l__coffin_right_corner_dim=\dimen158
-\l__coffin_bottom_corner_dim=\dimen159
-\l__coffin_top_corner_dim=\dimen160
-\l__coffin_scaled_total_height_dim=\dimen161
-\l__coffin_scaled_width_dim=\dimen162
+\l__box_top_dim=\dimen153
+\l__box_bottom_dim=\dimen154
+\l__box_left_dim=\dimen155
+\l__box_right_dim=\dimen156
+\l__box_top_new_dim=\dimen157
+\l__box_bottom_new_dim=\dimen158
+\l__box_left_new_dim=\dimen159
+\l__box_right_new_dim=\dimen160
+\l__box_internal_box=\box56
+\l__coffin_bounding_shift_dim=\dimen161
+\l__coffin_left_corner_dim=\dimen162
+\l__coffin_right_corner_dim=\dimen163
+\l__coffin_bottom_corner_dim=\dimen164
+\l__coffin_top_corner_dim=\dimen165
+\l__coffin_scaled_total_height_dim=\dimen166
+\l__coffin_scaled_width_dim=\dimen167
 ))
 Package: minibox 2013/06/21 v0.2a Another type of box.
-\l_minibox_rule_dim=\dimen163
-\l_minibox_pad_dim=\dimen164
+\l_minibox_rule_dim=\dimen168
+\l_minibox_pad_dim=\dimen169
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/mhchem/mhchem.sty
 Package: mhchem 2014/03/27 v3.17 for typesetting chemical formulae
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count144
-\calc@Bcount=\count145
-\calc@Adimen=\dimen165
-\calc@Bdimen=\dimen166
+\calc@Acount=\count146
+\calc@Bcount=\count147
+\calc@Adimen=\dimen170
+\calc@Bdimen=\dimen171
 \calc@Askip=\skip62
 \calc@Bskip=\skip63
 LaTeX Info: Redefining \setlength on input line 75.
 LaTeX Info: Redefining \addtolength on input line 76.
-\calc@Ccount=\count146
+\calc@Ccount=\count148
 \calc@Cskip=\skip64
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/twoopt.sty
@@ -573,7 +597,7 @@ Package: twoopt 2008/08/11 v1.5 Definitions with two optional arguments (HO)
 \mhchem@smallbondwidth@tmpA=\skip68
 \mhchem@smallbondwidth@tmpB=\skip69
 \mhchem@smallbondwidth=\skip70
-\__mhchem_option_version_int=\count147
+\__mhchem_option_version_int=\count149
 \mhchem@prepostscript@tmp@i=\skip71
 \mhchem@prepostscript@tmp@ii=\skip72
 \mhchem@mathbox@tmp@i=\skip73
@@ -585,40 +609,40 @@ Package: twoopt 2008/08/11 v1.5 Definitions with two optional arguments (HO)
 (./molybdenite.aux)
 \openout1 = `molybdenite.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 40.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
 (/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count148
-\scratchdimen=\dimen167
-\scratchbox=\box56
-\nofMPsegments=\count149
-\nofMParguments=\count150
+\scratchcounter=\count150
+\scratchdimen=\dimen172
+\scratchbox=\box57
+\nofMPsegments=\count151
+\nofMParguments=\count152
 \everyMPshowfont=\toks35
-\MPscratchCnt=\count151
-\MPscratchDim=\dimen168
-\MPnumerator=\count152
-\makeMPintoPDFobject=\count153
+\MPscratchCnt=\count153
+\MPscratchDim=\dimen173
+\MPnumerator=\count154
+\makeMPintoPDFobject=\count155
 \everyMPtoPDFconversion=\toks36
 ) (/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -635,8 +659,8 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box57
-Package hyperref Info: Link coloring OFF on input line 38.
+\AtBeginShipoutBox=\box58
+Package hyperref Info: Link coloring OFF on input line 40.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -644,147 +668,80 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count154
+\c@section@level=\count156
 )
-LaTeX Info: Redefining \ref on input line 38.
-LaTeX Info: Redefining \pageref on input line 38.
-LaTeX Info: Redefining \nameref on input line 38.
+LaTeX Info: Redefining \ref on input line 40.
+LaTeX Info: Redefining \pageref on input line 40.
+LaTeX Info: Redefining \nameref on input line 40.
 
 (./molybdenite.out) (./molybdenite.out)
 \@outlinefile=\write3
 \openout3 = `molybdenite.out'.
 
-LaTeX Font Info:    Try loading font information for U+wasy on input line 41.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 126.
+)
+\CenteringLeftskip=\skip78
+\RaggedLeftLeftskip=\skip79
+\RaggedRightLeftskip=\skip80
+\CenteringRightskip=\skip81
+\RaggedLeftRightskip=\skip82
+\RaggedRightRightskip=\skip83
+\CenteringParfillskip=\skip84
+\RaggedLeftParfillskip=\skip85
+\RaggedRightParfillskip=\skip86
+\JustifyingParfillskip=\skip87
+\CenteringParindent=\skip88
+\RaggedLeftParindent=\skip89
+\RaggedRightParindent=\skip90
+\JustifyingParindent=\skip91
+)
+LaTeX Font Info:    Try loading font information for U+wasy on input line 43.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 41.
+LaTeX Font Info:    Try loading font information for U+msa on input line 43.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 41.
+LaTeX Font Info:    Try loading font information for U+msb on input line 43.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-</Users/benjaminbass/seacloud/class/earthMaterials/picBank/molybdenite1.png, id
-=4, 240.9pt x 181.27725pt>
-File: /Users/benjaminbass/seacloud/class/earthMaterials/picBank/molybdenite1.pn
-g Graphic file (type png)
+))
+Runaway argument?
+{\includegraphics [scale=.5]{molybdenite1} \caption {Greyish-blue str\ETC.
+! File ended while scanning use of \Gscale@box.
+<inserted text> 
+                \par 
+<*> \input molybdenite.tex
+                          
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
 
-<use /Users/benjaminbass/seacloud/class/earthMaterials/picBank/molybdenite1.png
->
-Package pdftex.def Info: /Users/benjaminbass/seacloud/class/earthMaterials/picB
-ank/molybdenite1.png used on input line 45.
-(pdftex.def)             Requested size: 240.8994pt x 181.27681pt.
+! Emergency stop.
+<*> \input molybdenite.tex
+                          
+*** (job aborted, no legal \end found)
 
-Underfull \hbox (badness 1769) in paragraph at lines 45--45
-[][][]\OT1/cmr/m/n/8 Greyish-blue streak, metal-lic lus-ter, and ex-tremely sof
-t. You can rub it off.
- []
-
-
-</Users/benjaminbass/seacloud/class/earthMaterials/picBank/molybdenite2.png, id
-=6, 240.9pt x 169.23225pt>
-File: /Users/benjaminbass/seacloud/class/earthMaterials/picBank/molybdenite2.pn
-g Graphic file (type png)
-
-<use /Users/benjaminbass/seacloud/class/earthMaterials/picBank/molybdenite2.png
->
-Package pdftex.def Info: /Users/benjaminbass/seacloud/class/earthMaterials/picB
-ank/molybdenite2.png used on input line 46.
-(pdftex.def)             Requested size: 240.8994pt x 169.23184pt.
-
-Overfull \hbox (96.79134pt too wide) in paragraph at lines 51--61
-[][]
- []
-
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 51--61
-[]
- []
-
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 51--61
-[]
- []
-
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 51--61
-[]
- []
-
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 51--61
-[]
- []
-
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 51--61
-[]
- []
-
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 51--61
-[]
- []
-
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 51--61
-[]
- []
-
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 51--61
-[]
- []
-
-
-Overfull \hbox (81.79134pt too wide) in paragraph at lines 51--61
-[] 
- []
-
-[1
-
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/
-benjaminbass/seacloud/class/earthMaterials/picBank/molybdenite1.png> </Users/be
-njaminbass/seacloud/class/earthMaterials/picBank/molybdenite2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 63--64
-[]\OT1/cmr/bx/n/10 Crystal De-scrip-tion (com-mon forms, habit, etc.)\OT1/cmr/m
-/n/10 :
- []
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
- (./molybdenite.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 89.
-Package rerunfilecheck Info: File `molybdenite.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 89.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 12890 strings out of 493117
- 216538 string characters out of 6135433
- 284968 words of memory out of 5000000
- 16203 multiletter control sequences out of 15000+600000
- 12292 words of font info for 50 fonts, out of 8000000 for 9000
+ 13390 strings out of 493117
+ 223122 string characters out of 6135433
+ 291978 words of memory out of 5000000
+ 16697 multiletter control sequences out of 15000+600000
+ 9644 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,11n,35p,10355b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
-/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/lo
-cal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
-/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-Output written on molybdenite.pdf (2 pages, 1391089 bytes).
-PDF statistics:
- 51 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
- 5 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 34i,6n,35p,10355b,200s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

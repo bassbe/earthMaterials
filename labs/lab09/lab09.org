@@ -1,0 +1,37 @@
+Lab 09 Checklist
+
+* Rutil
+** Accessory Mineral. Hand samples are wierd
+** TODO Needle-prismatic crystal
+** TODO Luster is Adamantine
+** TODO Color is classically red, grey, or Honey Brown.
+* Magnetite
+** TODO Fe^{2+} Fe_2^3+O4
+** TODO Form: Octahedral Shape
+** TODO Magnetic
+** TODO Always Black to Grey
+* Hematite 
+** TODO Fe2O3
+** TODO Red, Rusty Streak
+** TODO Red Color, not always, grey, red, black
+* Ilmenite
+** TODO Luster: Metallic
+** TODO Color: Black 
+** TODO Not Magnetic
+* Corundum 
+** TODO Hardness: 9
+** TODO Hexagonal Prism Shape
+** TODO No Cleavage
+** Color is Pink, this is useful but not highlighted
+** Gem Blue: Saffire
+** Gem Pink: Ruby
+** Beryl has prominent basal cleavage that prevents confusion
+* Geothite FeO(OH) (hydrated hematite)
+** TODO Big Botryoidal or Radiating Crystals on the Side
+** TODO Has a brown streak
+* Graphite (C)
+** TODO Harness: 1/2
+** TODO feels greasy
+** TODO Streak (black or grey)
+** Moly streak is silver-blue
+l

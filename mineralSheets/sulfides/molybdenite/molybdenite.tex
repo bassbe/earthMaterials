@@ -13,6 +13,8 @@
 \usepackage{color,soul} % for highlighting
 \usepackage{graphicx}
 \graphicspath{{/Users/benjaminbass/seacloud/class/earthMaterials/picBank/}}
+\usepackage{sidecap} % for side-captions of minerals
+\usepackage[english]{babel}% attempted bug fix
 
 \usepackage{frame,color}
 \usepackage{framed}
@@ -41,11 +43,17 @@
 
 % \framebox{Use frameboxes until figure out alignmen}
 
-\begin{center}
-  \includegraphics{molybdenite1}\footnote{Greyish-blue streak, metallic luster, and extremely soft. You can rub it off. Platy/hexagonal layers.}
-  \includegraphics{molybdenite2}\footnote{Streaks greyish-blue, is extremely soft and easy to rub off. Also, it has a metallic luster.}
-\end{center}
+\begin{SCfigure}
+  \centering
+\caption{Greyish-blue streak, metallic luster, and extremely soft. You can rub it off. Platy/hexagonal layers.}
+  \includegraphics[scale=.5]{molybdenite1}
+\end{SCfigure}
 
+\begin{SCfigure}
+  \centering
+\caption{Streaks greyish-blue, is extremely soft and easy to rub off. Also, it has a metallic luster.}
+  \includegraphics[scale=.5]{molybdenite2}
+\end{SCfigure}
 
 
 \framebox[15cm][l]{\textbf{General Mineral Formula}: \ce{MoS2} }\
