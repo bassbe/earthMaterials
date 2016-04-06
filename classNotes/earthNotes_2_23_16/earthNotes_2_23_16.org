@@ -1,0 +1,70 @@
+#+TITLE: Earth Materials: Techto and Phyllosilicateso
+#+AUTHOR: Benjamin Bass
+#+DATE: 23 February 2016
+
+\pagebreak
+
+* Potassium Feldspar (KSpar)
+Not quite as abundant as plagioclase feldspar, but still extremely abundant.
+Kind of like quartz.
+** Environment of KSpar 
+- Silica Rocks (felsic)
+  - granites
+  - rbydlites
+- High temperature metamorphic rocks (granite)
+- Sedementary (ex: arkose sandstone)
+- Pegmatite
+** Chemical Substitutions
+- \ce{Fe^3+} sub in for \ce{Al^3+}, gives it a color characteristic of feldspar :revisit:
+- Pb can sub in green color and produce "Amazonite"
+
+* Plagioclase Feldspar
+- its everywhere
+-  in more felsic rocks: Na-rich with Low Temperatures
+-  in more mafic rocks: Ca-ric with High Temperatures
+
+* Zeolite
+- 80 naturally occuring zeolites.
+- All zeolites contain structural water \ce{H2O}
+  + structural water is alwasy lost in the formation
+- General Formula: $M_{x}D_{y} (Al_{x + 2y} Si_{n-x-2y}O_{2n}) \cdot mH_{2}O$
+  + M = \ce{Na\text{,}K}
+  + D = \ce{Ca\text{,}Mg\text{,}Ba}
+  + 4-fold site = $(Al_{x + 2y} Si_{n-x-2y}O_{2n})$
+- The structure is a linked framework of :revisit: with long tunnels
+- in zeolite:
+  + \ce{Na\text{,}Ca\text{,}H2O}...etc are loosly bound and exchangable in the tunnels.
+  + dessecant
+  + water quality $\ce{Na^+} \iff \ce{Ca^2+}$
+  + contaminate clean up
+
+** Common Zeolites
+|------------+-----------+--------------------------|
+| Amalcine   | (Na)      | isometric                |
+|------------+-----------+--------------------------|
+| Chabazite  | (Ca,Na,K) | Triclinic                |
+|------------+-----------+--------------------------|
+| Heulandite | (Na,Cu)   | Mono                     |
+|------------+-----------+--------------------------|
+| Stilbite   | (Na,Ca)   | Mono [elongated blocks]  |
+|------------+-----------+--------------------------|
+| Natrolite  | (Na)      | Ortho [radiating fibres] |
+|------------+-----------+--------------------------|
+
+- formed in Low Temperatures and Metamorphism, often of _mafic_ rocks
+  + often in fine-grained fillings in:
+    * craks
+    * voids
+    * vesicles
+
+* Feldspathoids
+- like feldspar but they exist in low-silica rocks (si-undersaturated) with _alkali elements_
+
+** Leucite
+\ce{KAlSi2O6}
+
+** Nepheline
+- $\ce{(Na3K)(AlSiO4)4} \leftrightarrow \ce{KAlSiO4}$ (Kalsilite) (solid solution)
+- $\ce{(Na.75K.25)(AlSi)O4}
+
+*** 

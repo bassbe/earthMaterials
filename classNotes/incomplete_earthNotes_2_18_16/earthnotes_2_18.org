@@ -1,30 +1,34 @@
-Earth Notes 2 18
+#+TITLE: Earth Materials: Intro to Silicates, Techtosilicates
+#+AUTHOR: Benjamin Bass
+#+DATE: 18 February 2016
 
-* Review Missed from Tests
+\pagebreak
 
-Personalized question for next exam: think about the question for next exam.
-What 2 minerals could I interrorgate for the next exam?
-
-On the final exam, you have
-
-* The Middle Third of the Class:
-
-_Marching Throught the Silicates_
+* Marching Throught the Silicates
 
 Most Polymerized -> Least Polymerized.
 
-** Most Polymerized: Tectosilicates 
+ Most Polymerized: Tectosilicates 
 
-2/3 of Crust
+Make up 2/3rds of the Crust
 
-Simplets = _SiO_{2} Group_ (silica group)
+Simplest Techtosilicate =  \ce{SiO2} Group (silica group)
 
-Polymorphs (same chemical form, different groups)
+We find that the \ce{SiO2} group has many forms.
+Same chemistry different forms = Polymorphs
 
-there are many silica polymorphs
+<PHASE DIAGRAM>j
+fix composition
+change P&T
 
-Alpha Quartz
-coesite
+Phase Diagram
+
+Bottom: Low Pressure, Low Temp
+Alpha Quartz - our garden variety quarts. 99% of the quartz out there.
+
+Higher temperature, slightly higher pressure
+Beta Quartz.
+Coesite
 
 really important environment of growth: quartz
 

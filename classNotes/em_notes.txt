@@ -1,0 +1,459 @@
+Earth Materials
+
+
+* Continuing Feldspars<2016-02-23 Tue>
+
+
+includes 
+- granites
+- rhylites
+* Techtosilicates
+- You can get KSpar in metamorphic rocks, but that's more specialized
+  + Potassium Feldspar, not as abundant as plagioclase, but still extremely abundant and common mineral.
+  + Kind of like quartz.
+  + In general, you need silica-rich Environments, \ce{KAlSi3}, that's a lot of silica.
+  + A felsic rock. Compositionally, we need that felisc composition to get Feldspar
+  + very high temperature
+  + these things are called granualites
+  + metamorphic fomration
+  + IN addition to the formula we just covered, often times in KSpar, we can have Fe^{3+} subbing in.
+    * It would substitute for Aluminum. 1-for-1
+    * when we get this sub in KSpar, it gives it a pink color.
+    * most Kspars are a little pink/orange (not found in Plagioclase)
+    * Another substitution is Lead - gives a green Amazonite
+- All feldspars are very common in sedementary rocks
+  + only thing more common is quartz.
+  + quartz is just more resistent to weathering
+- An Arcose Sandstone
+  + A feldspar-rich sandstone. Fairly immature
+- Pegmatite
+  + All examples we saw in lab with beautiful crystals, those are from pegmatites
+  + very water rich environment
+- Plagioclase Feldspar
+  + its everywhere, ther isn't a rock type you can't get plagioclase from
+  + igneous, hydrothermal, .. it's everywhere
+  + In more felisc rocks, things tend to be more sodium rich or Albite rich
+    * so granite or rhylite. Plagioclase there will be more albite
+  + In more mafic rocks, more sodium rich
+    * basalt, gavrow, anorthite rich
+    * Also generally correspond to tempratures
+    * Boen's reaction series (higher T - Mafic, lower T Sodium rich, felsic)
+    * Know the Feldspar Triangle
+- Techtosilicates
+**  Zeolite Group
+  + in terms of variety and # of minerals. The zeolites contain the most different mineral varities of any silicate
+  + 80 naturally occuring zeolites, more synth'd in a lab
+  + All zeolites contain structural water. H2O
+  + Two ways water can be held in minerals
+    * Structural water:
+      - Molecules of water that live inside the structure
+    * Others have OH in their chemistry and get another H when disturbed.
+    * Formula: M_{x} D_{y} Al. Formula page 1.
+    * The ratio of Aluminum to Silica depends on the M-side. They tend to be mono-valent cations
+    * D tends to be di-valent cations (Ca, Mn)
+    * Structure itself: silicon tetrahedra with long, wide-open tunnels or holes where the water gets in.
+  + (Na, Ca, H2O) are loosly bound and exchangable in the structure.
+    - these make it absorbant
+    - Dessecant
+    - Na+ -><- Ca^{2+}
+  + Mineral Use:
+    - 
+  + Common Zeolites: (not that important, recognize them as zeolites)
+    * Amalcine (Na) Isometric (looks like Leucite, but different size and shape)
+    * Chabazite (Ca, Na, u) Triclinic (mixed sort of mineral, triclinic. Looks hexagonal (pseudohexagonal))
+    * Heulandite (Na, Ca) Monoclinic 
+    * Stillbite (Na, Ca) Monoclinic (elongaded, blady sheets)
+    * Naturolite (Na) Orthorhombic (radiating fibres)
+  + Where do zeolites form?
+    - Environment is Low-Low Temperature Metamorphism.
+    - Hydrothermal Alteration
+    - common rocks with a lot of K, Na, Ca (like in feldspar)
+    - *Low Temp Alteration & metamorphism, often in mafic rocks*
+    - Mafic rocks are very susceptable to low T, hydrothermal alteration
+    - They break down and make zeolites.
+    - Often fine-grained fillings in cracks or voids, or vesicles.
+    - Great place for Zeolites to form.
+    - Difficult to identify these fine grains without going to XRD.
+
+
+silica group
+feldspar group
+zeolite group
+** Category (Sodalite, Leucite, Nephiline): Feldspathoids
+
+- Like feldspar, but they exist in Low-Si rocks.
+  + "Silica-Undersaturated environments"
+  + Not enough Si to form Quartz
+  + Still have Alkali Elements, those are necessary for Feldspathoids
+  + Weird to have that kind of environment.
+
+
+- Leucite: \ce{KAlSi2O6}
+  + soccer ball-shaped, roundish crystals
+  + Formula looks a lot like KSpar (KAl)
+  + Why would we get Leucite instead of KSpar?
+    * <write reaction>
+    * <Look for Pics>
+    * If we low silica rocks/highSilica Rocks
+    * lookup (30:00):question:
+- Nepheline <complicated formula>
+  + Formula for Nepheline
+  + Has a little sodium and calcium, not so pure in real world
+  + One other Mineral End Membe: Nepheline has complete solid solution to
+    + KAlSiO4 (Calcilite), the end of a solid solution.
+- Bonus:
+  + Two common igneous rock types. Silica undersaturated and have abundant nephaline
+  + Phonalite (igneous rocks)
+    - pings when you hit it, doesn't break either
+    - Si-undersaturated
+    - Alkali-enriched
+    - Volcanic rock
+  + Syenite (the intrusive rock)
+    - silica undersaturated, intrusive rock
+- Other Feldspathoids (foids):
+  + Sodalite: Na8(AlSiO4)6 Cl2 (chlorine, otherwise it's albite)
+  + Lazurite:
+    * (Na,Ca)8 (AlSiO4)6 (SO4, Cl, S)2
+    * Beautiful Azure Blue color
+    * Primary constituant of Lapiz Lazuli
+  + Petalite: Li(AlSi4O10)
+    * society really likes Petalite for it's lithium. We <3 Lithium
+    * Hard to find large quantities of Lithium
+    * This can be found in Lithium-Rich Pegmatites
+    * :question: why does Petalite buck-trends. why unusual?
+
+** Scapolite (it's own little group)
+- solid solution between two end members
+  + (Marialite) Na4Al3Si9O24Cl
+  + (Meionite) Ca4Al6Si6O24(CO3)
+  + So, bring in Na, Ca
+    * Except for the Cl and the CO3 (carbonate), these look like:
+      - very common mineral things are identical to... Plagioclase Feldspars! Anorthite, Albite
+    * Scapolite takes the place of Plagioclase Feldspars in a *contact-metamorphic environment*
+    * Magma intrusions cause magma intrusions. (Silicate Magma's into a carbonate limestone)
+    * CO2 will be burned off into the atmosphere
+    * That's where Scapolite forms. It's an indicator of these conditions.
+- Keep End-Members Of Solid Solution Paired
+  + Mariolite, Myanite
+  + (Feldspars): Albite, Anorthite
+END OF TECHTOSILICATES
+================================================================================
+
+* Phyllosilicates
+- Slightly less polymerizatoin of silica
+- Construct Phyllosilicates
+- There are fundamental structures of phyllosiliates
+- *Know the Structure First*
+- they're sheet silicates
+- Phyllo dough, sheety. fun fact.
+- Silicon tetrahedra shares 3 of its oxygens with other silicon tetrahedra. Leaving 1 to bond with other things
+- Phyllosilicates are generally soft (1's and 2's) :important:
+- Not very dense, fairly open structures () :important:
+- Single plane of leavage, easy to identify cleavage :important:
+** Structure
+- Combination of Tetrahedral Sheets (T)
+- and Octahedral Sheets (O)
+- Tetrahedral Sheets:
+  + Tetrahedral Sites, connected in 2-D Sheet
+  + filled with either Al, or Si.
+- Octahedral Sheets:
+  + Made out of 2 adjacent planes of OH groups.
+  + Between which, are a whole bunch of Octahedral, edge-sharing, sites.
+- Between these two OH groups, we get our octahedral sites.
+  + Filled with Cations
+  + Depending on the Cations, there are 2 types of Octahedral Sheets
+    * Tri-Octahedral Sheet:
+      - 3/3 sites are filled with a 2+ cation (Mg, Fe)
+    * Di-Octahedral Sheet:
+      - 2 out of 3 sites are filled with 3+ Cation (Al)
+      - in the other site, it's vacant
+- These building blocks are important:
+  1) Tetrahedral Sheets
+  2) Tri-Octahedral Sheets
+  3) Di-Octahedral Sheets
+- Now we glue the different sheets together:
+  + Combine T and/or O sheets to make Layers
+  + Two Most Fundamental (T is trapezoid) (O is rectangle)
+    - (T)(O) Layer
+    - (T)(O)(T) Layer
+    - (O)... sometimes...
+  + Layers are bound together by VanDerWaals or Interlayer Cation
+- TABLEL CONSTRUCTION
+
+| DiOctahedral                 | Diagram   | Tri-Octahedral           | Notes                  |
+|------------------------------+-----------+--------------------------+------------------------|
+| \ce{Al2(OH)6}                | (O)       | \ce{Mg3(OH)6}            | These aren't silicates |
+| Gibsite                      |           | Brucite                  | they're hydroxides!    |
+| (ore for Al)                 |           |                          |                        |
+|------------------------------+-----------+--------------------------+------------------------|
+| \ce{Al2Si2O5(OH)4}           | (T)       | \ce{Mg3(Si2O5)(OH)2}     |                        |
+| Kaolinite                    | (O)       | Serpentine               |                        |
+| (most abundant Clay)         |           | swap Al for Mg           |                        |
+|------------------------------+-----------+--------------------------+------------------------|
+| \ce{Al2Si4O10(OH)2}          | (T)       | \ce{Mg3Si4O10(OH)2}      |                        |
+| Pyrophylite                  | (O)       | Talc                     |                        |
+| w/ VanDerWaals               | (T)       |                          |                        |
+|------------------------------+-----------+--------------------------+------------------------|
+| \ce{KAl2(AlSi3)O10(OH)2}     | +         | \ce{KMg3(AlSi3)O10(OH)2} |                        |
+| Muscovite (kendmember)       | (T)       | Biotite                  |                        |
+| \ce{NaAl2(AlSi3)O11(OH)2}    | (O)       |                          | MICAS: (TOT)           |
+| Paraganite                   | (T)       |                          | w/ interlayer          |
+|                              | +         |                          | cation                 |
+|------------------------------+-----------+--------------------------+------------------------|
+| \ce{Ca(Al2)(Al2Si2)O10(OH)2} | 2+        |                          |                        |
+| Margarite                    | (T)       |                          |                        |
+|                              | (O)       |                          |                        |
+|                              | (T)       |                          |                        |
+|                              | 2+        |                          |                        |
+|------------------------------+-----------+--------------------------+------------------------|
+|                              | (Talc)    |                          |                        |
+|                              | (Brucite) | Chloride                 |                        |
+|                              | (Talc)    | 3rd most common           |                        |
+|                              |           | phyllosilicate            |                        |
+
+:question: about K end member in the table
+
+
+Look at page 5 for the phengite information... Ask :question: about it.
+
+* Phyllosilicates Continued <2016-02-25 Thu>
+- Phyllosilicates cont.
+- Phengite
+  + similar to muscovite, but it takes the place of muscovite at High Pressures
+  + \ce{K(Al2)(AlSi3)O10(OH)2} (Muscovite)
+    * Add some Mg^{2+} and some Si for Al and creates Phengite
+    * (4si/4Al) = (3/1)
+    * Phengite is a really common indicator of ultra-high pressure/conditions
+- Paragonite is muscovite except remove K and put in Na
+** Quick Review and Finish Up
+*** Micas
+- TOT + interlayer Cations
+- Biotite:
+  + *2 end members (Fe^{2+} Anite), (Mg^{2+} Phlogopite)*
+  + Common Brown Mica, can get it everywhere
+  + Need a lil Mg and Fe and a Na
+- Muscovite (one end member) :question:
+  + Silvery/clear
+  + restricted to felsic, igneous, metamorphic, and sedementary derivatives
+- Paragonite:
+  + Na-rich
+  + Higher Pressure Mica
+  + Paragonite, like Phengite, is an indicator of High Pressure
+  + sometimes, paragonite is more white than muscovite's silvery whitish color
+- Phengite:
+  + Si-rich, high pressure
+- Muscovite, Paragonite, Phengite can be called "White Mica"
+- Glauconite:
+  + green mica, because Fe^{3+}
+  + Often fine grained in marine sedimentsf
+END MICAS
+----------------------------------------
+** Other Phyllosilicates
+- Chlorite:
+  + Dark Green
+  + low-temperature metamorphic rocks
+  + hydrating mafic protoliths
+  + Mafic Protoligh (basalt)
+  + Green Schist/Green Stone is green becasue of chlorite
+  + looks like a mica
+  + forms with the micas, muscovite & friends
+  + How to tell Chlorite from others Micas ?:
+    * Micas are Elastic, Chlorite isn't. (+ color)
+- Talc:
+  + soft, greasy, fun to look at
+  + Common in hydration of mafic to UltraMafic rocks
+  + Hydration, Low-T metamorphism of ultramafic rocks
+  + Water added to Basalt, but you need "Ultra"mafic protolith such as:
+    * the mantle!
+  + Inject water into the mantle and you'll make things like Talc
+  + Or Serpentine!!
+- Serpentine
+  + Common in metamorphic hydration (add water to mantle, will make Talc, Brucite, Serpentine)
+  + Is a fun one:)
+  + _Very water rich_. It has an incredible solid storehouse of water. Up to 15% weight in water.
+  + 3 Different Crystal forms Serpentine can take :important:
+  + They're serpentine chemicallly and structurally.
+  + Serpentine is a (T)(O) structure. But it can bend to fit things together. Bent Sheets (see page 1).
+    * Lizardite: random ordering of bent TO's. Massive texture.
+    * Antigorite: Ordered, wavy formation.
+    * Crysotile: Ordered, in a circle. That's where we get the needles. Sheet Needle.
+      - Asbestos form of Crysotile, and of Serpentine
+      - It's not structurally a needle, it's a sheet.
+      - not as bad as amphibole asbestos
+** Clay Minerals
+- XRD needed to identify the Clay Minerals
+- sedementology - "clay" is anything finer than a grain size :question:
+- mineralology - "clay" is a phylosilicate tends to be fine grained.
+- Two Broad categories of Clay Minerals
+*** 1:1 Clays
+(T)(O) 
+ex: Kaolinite
+- strictly speaking, serpentine counts here. But it doesn't form in the same environment so we don't count it.
+*** 2:1 Clays
+(T)(O)(T)
+ex: (*don't have their own formula, know that they're 2:1 clays, and that Smectite, Verm, and Montmor. form due to weathering of Mafic Rocks have a property of shrinking and swelling due to water uptake in the interlayer regions*)
+- Smectite (includes some mix of Ca, Mg, Fe in the octahedral sites)
+- Vermiculite
+- Montmorillionite
+- Illite (brings in K, similar to muscovite)
+- *Kaolinite and Illite form from weathering of Felsic Rocks*
+  + that's a big deal
+- We could add Glauconite (K, Fe^{3+}) to the mix.
+  - Often forms as a Clay in marine, sedimentary environments
+  - sediment binds them
+- *Smec, Verm, Montor. they expand and dessicate with water. By like 50%!!! That's huge*
+- *Because they're so fine grained, you can't identify these potential dangers unless you resort to XRD*
+END OF PHYLLOSILICATES
+================================================================================
+* Inosilicates
+- Two types:
+  + single chain silicates = pyroxenes. pyroxenes are single chain silicates. the end.
+    * End in \ce{SiO3}
+  + Dobule chiain silicates = amphiboles.
+    * End in \ce{Si8O22}
+** Pyroxenes
+- LEARN THE STRUCTURE FIRST!!!, just like with the phyllosilicates
+- And amphibole can get ugly formula-wise, so learn by structure first
+- like feldspar with triangle, learn the triangle and use structure
+*** Structure of Pyroxenes
+- silicon tetrahedron's sitting flat on the board, stacked end to end. C-axis. Page 2.
+- Along C-Axis view: \Delta\Delta\Delta
+- how're we going to stack these chains?
+- #1, Page 2:
+  + Two inverted chains, glued with staggered cations.
+  + glue: "M-1" site, 6-fold coordination, Mg^{2+}, Fe^{2+}
+  + Looks kind of like I-Beam
+- #2, page 2
+  + stack base to base like heads with hats
+  + "M-2" sites.
+  + 6-8-fold coordinatoin.
+  + Ca^{2+} or Na^{2+} or Fe, Mg
+- General Formula for Pyroxenes: :question:
+X  Y  Z_{2}        O_{6}
+M2 M1  tetragonal
+- The Pyroxene Crystals
+  + stuby prisms
+  + squarish cross-section (though there are exceptions)
+  + <image> page 3
+  + tends to have end 90 degree cleavage
+  + striated along the C-axis
+*** Pyroxene Compositions (Triangles)
+- There are two classes
+  + Orthorhombic Pyroxenes *need to know (OPX)* (orthopyroxene)
+  + Monoclinic Pyroxenes  *need to know (CPX)* (clinopyroxene)
+  + <image> big triangle on page 3
+  + End Members:
+    - Pure Calcium
+    - Pure Magnesium
+    - Pure Iron:
+- On the Triangle
+  + Wollastonite ("pyroxenoid"), not a pyroxene
+  + :question: where are the CPX on the diagram...?
+  + Diopside:
+  + Hedenbergite
+  + Augite: garden-variety pyroxene
+  + Pure iron endmember is really rare
+  + *(end members, enstatite, ferrosilite, Why not the \ce{Ca2} at the top?*)
+  + Pigeonite:
+    * At high temperatures, it's stable clinopyroxene.
+    * As it cools, we hit exolution Gaps, solvus.
+    * It will destabalize and unmix to become clino and orthopyroxenes, no longer perfect chain
+  + Augite is a pyroxene, really general, kinda difficult to say much about
+- *With these end member pairs, keep them together (Diopside, Hedenbergite)* :question: why?
+- Enstatie and Ferrosillite are the only orthopyroxenes
+- Chemically, we haven't covered Sodium (Na)
+- So Na-Pyroxenes can't fit on 3 dimensions.p
+  + Sodium goes in for Calcium in that M2 site. :question: how do we fit 4th dimension sodium on diagram?
+  + 3 Important Na-Pyroxene End-Members:
+    * Jadite: \ce{NaAlSi2O6} :question: what's the end member?
+      - where Jade (semi-precious stone) comes from
+      - forms in high to ultra-high pressure metamorphic rocks
+      - Sodium is allowed into pyroxenes as pressure goes up
+      - Formula similar to: Albite! :important:
+	+ _silica undersaturated -> Jadite_
+	+ _silica rich -> albite_
+	+ Also favored by pressure
+	+ _High Pressure -> Jadite_
+	+ _Low Pressure -> albite_
+    * Acmite: \ce{NaFe^{3+}Si2O6}
+      - get in high-pressure metamorphic rocks
+      - also in silica-undersaturated, sodium/alkali rich igneous rocks
+	* (other minerals that form: feldspathoids (leucite, nepheline, brucite, sodalite ))
+    * Omphacite: garbage pail pyroxene
+      - presence of sodium and calcium that gives it its name
+      - rich green, high-pressure metamorphism
+      - green omphacite + red garnet (forms at high pressures (in subduction zones)) : Eclogite!
+- (odd ones now) Spoodumene:
+  + \ce{Li}-Pyroxene
+  + \ce{LiAlSi2O6}
+  + like lippidulite :question: spelling, relevance
+  + another of our lithium ores
+- Top of the triangle was pure calcium end-member
+- Wollasanite is a pyroxanoid
+  - perfect chains get bent and have a different unit cell
+  - shorter length than a long chain
+  - *Pyroxanoid's are Triclinic*!!! because of this bending
+
+================================================================================
+* <2016-03-01 Tue>
+
+- In general, Na-Pyroxenes are indicators of ultra high pressure metamorphic conditions
+- You need Calcium-rich metamorphic rocks (calc-silicates)
+- Contact metamorphism of a carbonate country rock (calcite (calcium carbonate)), with magma will make a lot of diopside, hedenbergite
+- Augite:
+  + most common pyroxene
+  + most common in mafic, igneous rocks
+- Orthopyroxenes
+  + Enstatite & Ferrosillite
+  + not as common as the CPX's
+  + Two Important Areas:
+    + *Mantle rocks often have Orthopyroxene as their primary constituents*
+    + *ultra-high Temperature Metamorphic rocks*
+- Mantle is an interesting part of the earth.
+- Pyroxenes are an important part of the mantle.
+-
+** Inosilicates : Amphiboles
+- Double chains that end in \ce{Si8O22}
+- <image> page 1
+- A is 10-fold coordinated
+- :questoin: importance of inosilicate pyroxene structure aside from learning formula
+- Sites:
+  + $W_{0-1}  X_{2} Y_{5} Z_{8} O_{22} (OH)_{2} $
+- The W can be vacant.
+- As crystals, Amphiboles get elongated prisms
+- In cross-sections, they're 120 degree cleavage
+- Amphiboles, of our common silicates, are the most complicated
+- *You want to know all of this*
+- Its a more common forming mineral in the crust than most pyroxenes.
+- <image> Amphibole triangle
+- :question: why are site's important to know for this exam?
+- Minerals
+  + Amphopholite: \ce{Mg2Mg5Si8O22(OH)2}
+    * is an ortho-amphobole (orthorhombic)
+    * enstatite was the pyroxene in the same place!
+  + *Gedrite*/amphopholite :question: where gedrite
+  + Cummingtonite: \ce{Fe2Mg5Si8}
+    * still ortho-amphibole
+  + *Grunerite* where is it?
+  + Tremolite: \ce{Ca2Mg5Si8O22(OH)2}
+    * the white amphibole (no iron)
+    * then when its green it becomes...:
+  + Ferro Actinolite: \ce{Ca2Fe5Si8O22(OH)2}
+    * the iron makes it green
+  + In general, any amphibole that lies along the solid solution line is garden variety
+  + All of this is monoclinic
+  + *Most Common Garden Variety Amphibole*: Hornblende \ce{Fe2Fe5Si8O22(OH)2}
+    * the garbage pail amphobole, you can put anything in it
+- Na-
+*** Na-Amphiboles
+- Two important *end-members*:
+  + Na^{2} (M4)
+  + Al     (M123)
+  + :question: will we need to mix the m4, and m123 sites?
+  + Glaucophane: \ce{Mg3Al2Si8O22(OH)2}
+  + Riecheckite: \ce{Fe3^{2+}Fe2^{3+}}
+    * blue asbestos
+    * nasty stuff
+    * asbestos forms as a consequence of iron-rich rocks
+  + *spend time to recognize the similarities between the amphiboles and the pyroxenes*
+  + 
